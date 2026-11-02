@@ -1,0 +1,1201 @@
+sequence_id,user_event_path,time_step,sensor_reading_1,sensor_reading_2,latitude,longitude
+SEQ001,"['Home', 'Search', 'Product_Page', 'Cart']",1,32.48,23.7,37.75719,-122.40283
+SEQ001,"['Home', 'Search', 'Product_Page', 'Cart']",2,34.5,25.34,37.75735,-122.40324
+SEQ001,"['Home', 'Search', 'Product_Page', 'Cart']",3,36.18,28.01,37.75791,-122.40342
+SEQ001,"['Home', 'Search', 'Product_Page', 'Cart']",4,38.31,30,37.758,-122.40379
+SEQ002,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,20.06,62.58,37.77096,-122.40726
+SEQ002,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,21.73,64.49,37.77144,-122.40743
+SEQ002,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,23.81,66.69,37.77179,-122.40772
+SEQ002,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,25.22,68.75,37.77193,-122.408
+SEQ003,"['Home', 'Search', 'Exit']",1,30.01,49.09,37.77116,-122.42867
+SEQ003,"['Home', 'Search', 'Exit']",2,31.62,51.44,37.77119,-122.42902
+SEQ003,"['Home', 'Search', 'Exit']",3,33.07,54.46,37.77188,-122.42911
+SEQ003,"['Home', 'Search', 'Exit']",4,35.65,56.82,37.77225,-122.42955
+SEQ004,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,35.78,43.8,37.78024,-122.42636
+SEQ004,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,37.08,45.56,37.78056,-122.42692
+SEQ004,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,38.76,48.53,37.78094,-122.42736
+SEQ004,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,41.28,50.74,37.78104,-122.42732
+SEQ005,"['Home', 'Search', 'Product_Page', 'Cart']",1,22.1,60.81,37.76187,-122.42436
+SEQ005,"['Home', 'Search', 'Product_Page', 'Cart']",2,23.69,63.31,37.76205,-122.42463
+SEQ005,"['Home', 'Search', 'Product_Page', 'Cart']",3,25.47,65.85,37.76232,-122.42505
+SEQ005,"['Home', 'Search', 'Product_Page', 'Cart']",4,27.35,68.1,37.76265,-122.42551
+SEQ006,"['Home', 'Search', 'Product_Page', 'Cart']",1,21.3,48.04,37.76592,-122.40403
+SEQ006,"['Home', 'Search', 'Product_Page', 'Cart']",2,23.28,50.77,37.76614,-122.40426
+SEQ006,"['Home', 'Search', 'Product_Page', 'Cart']",3,25.51,53.14,37.76641,-122.4045
+SEQ006,"['Home', 'Search', 'Product_Page', 'Cart']",4,27.16,55.59,37.76692,-122.40493
+SEQ007,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.8,24.17,37.7857,-122.41916
+SEQ007,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.38,26.62,37.78608,-122.41967
+SEQ007,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,43.81,28.53,37.78615,-122.41984
+SEQ007,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,45.2,31.21,37.78656,-122.42007
+SEQ008,"['Home', 'Search', 'Exit']",1,16.7,35.27,37.7829,-122.39533
+SEQ008,"['Home', 'Search', 'Exit']",2,18.29,37.24,37.78325,-122.39568
+SEQ008,"['Home', 'Search', 'Exit']",3,19.91,40.34,37.78342,-122.39616
+SEQ008,"['Home', 'Search', 'Exit']",4,22.35,42.13,37.78386,-122.39637
+SEQ009,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,34.59,40.56,37.75817,-122.40511
+SEQ009,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,37.17,42.71,37.75864,-122.40519
+SEQ009,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,38.65,45,37.75907,-122.40557
+SEQ009,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,41.24,47.17,37.75916,-122.40591
+SEQ010,"['Home', 'Search', 'Exit']",1,42.23,22.48,37.7825,-122.39227
+SEQ010,"['Home', 'Search', 'Exit']",2,43.68,24.57,37.78268,-122.39263
+SEQ010,"['Home', 'Search', 'Exit']",3,46.05,27.45,37.78288,-122.39251
+SEQ010,"['Home', 'Search', 'Exit']",4,47.5,29.81,37.78307,-122.39314
+SEQ011,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,38.4,60.33,37.76937,-122.42907
+SEQ011,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,40.96,62.21,37.76986,-122.42955
+SEQ011,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,42.75,64.76,37.77006,-122.4296
+SEQ011,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,44.02,66.61,37.77034,-122.42984
+SEQ012,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,14.29,35.74,37.76611,-122.3982
+SEQ012,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,15.74,38.17,37.76629,-122.39855
+SEQ012,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,18.08,39.66,37.7667,-122.39896
+SEQ012,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,19.44,42.88,37.76704,-122.39923
+SEQ013,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,25.95,50.12,37.76625,-122.42553
+SEQ013,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,28.76,52.07,37.76655,-122.42598
+SEQ013,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,30.22,54.8,37.76666,-122.42622
+SEQ013,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,31.6,56.39,37.76717,-122.4264
+SEQ014,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,26.38,26.73,37.78324,-122.40939
+SEQ014,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,27.52,28.67,37.78339,-122.40979
+SEQ014,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,29.65,31.55,37.78387,-122.40991
+SEQ014,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,31.21,33.22,37.78404,-122.41029
+SEQ015,"['Home', 'Search', 'Product_Page', 'Cart']",1,43.84,60.46,37.77334,-122.39576
+SEQ015,"['Home', 'Search', 'Product_Page', 'Cart']",2,45.11,61.64,37.77355,-122.39608
+SEQ015,"['Home', 'Search', 'Product_Page', 'Cart']",3,47.59,64.26,37.77415,-122.39638
+SEQ015,"['Home', 'Search', 'Product_Page', 'Cart']",4,49.55,66.63,37.77432,-122.39643
+SEQ016,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,44.84,26.26,37.78461,-122.41967
+SEQ016,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,45.87,28.03,37.78464,-122.41979
+SEQ016,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,47.91,30.5,37.78518,-122.41999
+SEQ016,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,49.29,33.28,37.7853,-122.42044
+SEQ017,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,28.45,47.27,37.76337,-122.40818
+SEQ017,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,30.27,48.86,37.76344,-122.40856
+SEQ017,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,32.02,51.78,37.76387,-122.40883
+SEQ017,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,33.75,54.53,37.76411,-122.4093
+SEQ018,"['Home', 'Search', 'Product_Page', 'Cart']",1,45.7,23,37.76063,-122.43032
+SEQ018,"['Home', 'Search', 'Product_Page', 'Cart']",2,47.21,25.46,37.76101,-122.4305
+SEQ018,"['Home', 'Search', 'Product_Page', 'Cart']",3,48.46,27.93,37.76125,-122.43073
+SEQ018,"['Home', 'Search', 'Product_Page', 'Cart']",4,50.87,30.38,37.76151,-122.43095
+SEQ019,"['Home', 'Search', 'Exit']",1,39.19,51.86,37.75325,-122.41335
+SEQ019,"['Home', 'Search', 'Exit']",2,41.16,55.08,37.75351,-122.41374
+SEQ019,"['Home', 'Search', 'Exit']",3,42.9,57.28,37.75381,-122.41394
+SEQ019,"['Home', 'Search', 'Exit']",4,44.3,59.2,37.75416,-122.41436
+SEQ020,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,39.06,58.48,37.75324,-122.41556
+SEQ020,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,40.88,61.18,37.75346,-122.41571
+SEQ020,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,42.49,63.57,37.75398,-122.41599
+SEQ020,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,44.75,65.63,37.75413,-122.41639
+SEQ021,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.35,54.14,37.77456,-122.41198
+SEQ021,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.31,56.65,37.77465,-122.41244
+SEQ021,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,42.93,59.75,37.77498,-122.41241
+SEQ021,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,44.73,61.63,37.77508,-122.41298
+SEQ022,"['Home', 'Search', 'Product_Page', 'Cart']",1,44.55,30.7,37.78925,-122.42448
+SEQ022,"['Home', 'Search', 'Product_Page', 'Cart']",2,45.27,32.62,37.78935,-122.42487
+SEQ022,"['Home', 'Search', 'Product_Page', 'Cart']",3,47.63,35.58,37.78967,-122.42516
+SEQ022,"['Home', 'Search', 'Product_Page', 'Cart']",4,48.84,37.45,37.79004,-122.42549
+SEQ023,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,42.58,24.97,37.77416,-122.40845
+SEQ023,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,44.42,26.62,37.77447,-122.40828
+SEQ023,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,46.06,29.5,37.77473,-122.4087
+SEQ023,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,47.49,31.92,37.775,-122.40919
+SEQ024,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,30.2,29.5,37.78623,-122.39666
+SEQ024,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,31.72,31.04,37.78651,-122.39693
+SEQ024,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,34.61,33.4,37.78703,-122.39732
+SEQ024,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,36.05,35.57,37.78718,-122.39757
+SEQ025,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,17.14,62.41,37.77005,-122.39144
+SEQ025,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,19.66,64.42,37.77055,-122.3915
+SEQ025,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,20.77,66.89,37.77078,-122.39177
+SEQ025,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,22.52,68.86,37.77111,-122.39202
+SEQ026,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,19.94,45.55,37.76453,-122.41721
+SEQ026,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,22.11,47.31,37.76463,-122.41769
+SEQ026,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,23.58,50.35,37.76512,-122.41816
+SEQ026,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,25.81,52.26,37.76548,-122.41824
+SEQ027,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,27.36,36.07,37.77597,-122.41113
+SEQ027,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,28.27,38.84,37.77622,-122.41133
+SEQ027,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,30.31,40.4,37.77659,-122.4118
+SEQ027,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,32.36,43.54,37.7769,-122.41182
+SEQ028,"['Home', 'Search', 'Product_Page', 'Cart']",1,14.11,47.38,37.76763,-122.39911
+SEQ028,"['Home', 'Search', 'Product_Page', 'Cart']",2,16.78,49.49,37.7678,-122.39951
+SEQ028,"['Home', 'Search', 'Product_Page', 'Cart']",3,18.61,52.61,37.76814,-122.39976
+SEQ028,"['Home', 'Search', 'Product_Page', 'Cart']",4,19.3,54.82,37.76854,-122.3999
+SEQ029,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,27.09,28.1,37.77051,-122.40602
+SEQ029,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,28.66,30.46,37.77086,-122.40624
+SEQ029,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,30.18,33.17,37.77107,-122.40655
+SEQ029,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,32.52,35.24,37.77141,-122.40659
+SEQ030,"['Home', 'Search', 'Exit']",1,26.83,53.52,37.78113,-122.42225
+SEQ030,"['Home', 'Search', 'Exit']",2,28.86,55.35,37.78129,-122.42263
+SEQ030,"['Home', 'Search', 'Exit']",3,29.74,57.59,37.78183,-122.42303
+SEQ030,"['Home', 'Search', 'Exit']",4,32.46,59.63,37.78208,-122.42344
+SEQ031,"['Home', 'Search', 'Product_Page', 'Cart']",1,36.31,33.3,37.78823,-122.39988
+SEQ031,"['Home', 'Search', 'Product_Page', 'Cart']",2,37.98,36.07,37.78861,-122.40024
+SEQ031,"['Home', 'Search', 'Product_Page', 'Cart']",3,40.31,38.95,37.78886,-122.40056
+SEQ031,"['Home', 'Search', 'Product_Page', 'Cart']",4,42.5,40.6,37.7891,-122.40079
+SEQ032,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,34.49,54.19,37.75835,-122.41754
+SEQ032,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,35.96,56.44,37.75859,-122.41801
+SEQ032,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,38.4,57.72,37.75879,-122.41817
+SEQ032,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,39.91,60.53,37.75909,-122.41843
+SEQ033,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,41.07,26.34,37.75198,-122.41412
+SEQ033,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,42.98,28.86,37.75232,-122.41457
+SEQ033,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,44.72,31.17,37.75256,-122.41503
+SEQ033,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,46.68,33.5,37.75301,-122.41512
+SEQ034,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,44.25,43.35,37.75814,-122.39519
+SEQ034,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,46.65,45.46,37.7585,-122.39531
+SEQ034,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,48.12,47.75,37.75883,-122.39557
+SEQ034,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,49.92,50.3,37.7594,-122.39579
+SEQ035,"['Home', 'Search', 'Exit']",1,44.96,57.36,37.77735,-122.39794
+SEQ035,"['Home', 'Search', 'Exit']",2,46.9,58.85,37.77758,-122.39802
+SEQ035,"['Home', 'Search', 'Exit']",3,49.18,61.26,37.77791,-122.3985
+SEQ035,"['Home', 'Search', 'Exit']",4,51.22,64.36,37.77829,-122.39875
+SEQ036,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,19.8,28.95,37.76047,-122.40864
+SEQ036,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,21.42,31.41,37.76079,-122.40905
+SEQ036,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,23.3,34.5,37.76114,-122.40939
+SEQ036,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,24.76,35.49,37.76133,-122.40966
+SEQ037,"['Home', 'Search', 'Exit']",1,46.31,56.44,37.76738,-122.39907
+SEQ037,"['Home', 'Search', 'Exit']",2,47.15,59.36,37.76782,-122.39932
+SEQ037,"['Home', 'Search', 'Exit']",3,49.26,61.63,37.76821,-122.39971
+SEQ037,"['Home', 'Search', 'Exit']",4,50.67,63.98,37.76827,-122.39989
+SEQ038,"['Home', 'Search', 'Product_Page', 'Cart']",1,27.99,31.03,37.76469,-122.39644
+SEQ038,"['Home', 'Search', 'Product_Page', 'Cart']",2,30.9,33.06,37.76526,-122.397
+SEQ038,"['Home', 'Search', 'Product_Page', 'Cart']",3,32.37,34.78,37.76548,-122.39725
+SEQ038,"['Home', 'Search', 'Product_Page', 'Cart']",4,33.55,36.99,37.76597,-122.39749
+SEQ039,"['Home', 'Search', 'Product_Page', 'Cart']",1,28.53,44.94,37.77767,-122.41441
+SEQ039,"['Home', 'Search', 'Product_Page', 'Cart']",2,30.89,47.48,37.77775,-122.41455
+SEQ039,"['Home', 'Search', 'Product_Page', 'Cart']",3,32.88,49.64,37.77805,-122.41501
+SEQ039,"['Home', 'Search', 'Product_Page', 'Cart']",4,34.38,51.88,37.77856,-122.41533
+SEQ040,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,41.31,45.87,37.78172,-122.42476
+SEQ040,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,43.27,48.46,37.78186,-122.42491
+SEQ040,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,45.28,51.46,37.78241,-122.42519
+SEQ040,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,46.58,52.74,37.78262,-122.42533
+SEQ041,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,23.33,39.37,37.78456,-122.41735
+SEQ041,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,24.61,41.62,37.78474,-122.41772
+SEQ041,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,26.86,44.01,37.7849,-122.41799
+SEQ041,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,28.91,46.25,37.78534,-122.41818
+SEQ042,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,46.58,42.06,37.76836,-122.3931
+SEQ042,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,48.52,44.49,37.76852,-122.39339
+SEQ042,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,49.79,46.07,37.76888,-122.39354
+SEQ042,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,52.01,48.9,37.76924,-122.39391
+SEQ043,"['Home', 'Search', 'Exit']",1,38.03,44.43,37.77432,-122.40953
+SEQ043,"['Home', 'Search', 'Exit']",2,39.94,47.12,37.7747,-122.40997
+SEQ043,"['Home', 'Search', 'Exit']",3,41.68,48.91,37.77504,-122.41019
+SEQ043,"['Home', 'Search', 'Exit']",4,43.99,51.32,37.77518,-122.41045
+SEQ044,"['Home', 'Search', 'Product_Page', 'Cart']",1,28.84,55.72,37.77566,-122.42768
+SEQ044,"['Home', 'Search', 'Product_Page', 'Cart']",2,30.71,58.14,37.77609,-122.42771
+SEQ044,"['Home', 'Search', 'Product_Page', 'Cart']",3,31.56,60.43,37.7763,-122.42837
+SEQ044,"['Home', 'Search', 'Product_Page', 'Cart']",4,33.83,62.33,37.77632,-122.42841
+SEQ045,"['Home', 'Search', 'Product_Page', 'Cart']",1,14.15,44.47,37.78745,-122.42231
+SEQ045,"['Home', 'Search', 'Product_Page', 'Cart']",2,16.29,46.25,37.78763,-122.42261
+SEQ045,"['Home', 'Search', 'Product_Page', 'Cart']",3,18.28,48.47,37.78801,-122.42297
+SEQ045,"['Home', 'Search', 'Product_Page', 'Cart']",4,20.37,51.23,37.78825,-122.42339
+SEQ046,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,32.71,54.27,37.76724,-122.4303
+SEQ046,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,33.84,56.27,37.76741,-122.43062
+SEQ046,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,35.88,59.13,37.76776,-122.43086
+SEQ046,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,38.21,61.69,37.76822,-122.431
+SEQ047,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,45.79,44.78,37.7789,-122.40147
+SEQ047,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,47.31,46.9,37.77934,-122.40161
+SEQ047,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,49.48,49.65,37.7794,-122.40196
+SEQ047,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,51.12,52.3,37.7798,-122.40231
+SEQ048,"['Home', 'Search', 'Product_Page', 'Cart']",1,19.57,44.75,37.75704,-122.41303
+SEQ048,"['Home', 'Search', 'Product_Page', 'Cart']",2,20.83,46.43,37.75751,-122.41328
+SEQ048,"['Home', 'Search', 'Product_Page', 'Cart']",3,22.74,49.22,37.75769,-122.41351
+SEQ048,"['Home', 'Search', 'Product_Page', 'Cart']",4,25.1,51.61,37.75781,-122.41394
+SEQ049,"['Home', 'Search', 'Product_Page', 'Cart']",1,44.5,25.86,37.75054,-122.41196
+SEQ049,"['Home', 'Search', 'Product_Page', 'Cart']",2,47.72,28.48,37.75103,-122.41228
+SEQ049,"['Home', 'Search', 'Product_Page', 'Cart']",3,48.59,30.37,37.75136,-122.41267
+SEQ049,"['Home', 'Search', 'Product_Page', 'Cart']",4,50.94,32.48,37.75147,-122.41308
+SEQ050,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,42.59,61.55,37.75633,-122.41931
+SEQ050,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,44.52,64.11,37.75664,-122.41958
+SEQ050,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,46.43,66.95,37.75708,-122.42004
+SEQ050,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,47.84,68.38,37.75729,-122.4203
+SEQ051,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,37.77,37.48,37.76665,-122.41259
+SEQ051,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,39.59,40.31,37.76697,-122.41295
+SEQ051,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,41.64,42.29,37.7673,-122.41326
+SEQ051,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,43.02,45.19,37.76765,-122.41365
+SEQ052,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,42.52,41.94,37.78931,-122.41439
+SEQ052,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,44.83,44.15,37.7894,-122.41491
+SEQ052,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46.26,46.72,37.78971,-122.41523
+SEQ052,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.87,48.69,37.78987,-122.41557
+SEQ053,"['Home', 'Search', 'Product_Page', 'Cart']",1,18.16,45.91,37.77842,-122.42675
+SEQ053,"['Home', 'Search', 'Product_Page', 'Cart']",2,20.08,48,37.77839,-122.42685
+SEQ053,"['Home', 'Search', 'Product_Page', 'Cart']",3,21.78,50.44,37.77886,-122.42733
+SEQ053,"['Home', 'Search', 'Product_Page', 'Cart']",4,24.27,53.02,37.77941,-122.42764
+SEQ054,"['Home', 'Search', 'Exit']",1,26.61,25.92,37.77925,-122.42557
+SEQ054,"['Home', 'Search', 'Exit']",2,28.45,28.21,37.77959,-122.42584
+SEQ054,"['Home', 'Search', 'Exit']",3,30.29,30.76,37.78001,-122.42622
+SEQ054,"['Home', 'Search', 'Exit']",4,31.43,33.68,37.78016,-122.42657
+SEQ055,"['Home', 'Search', 'Product_Page', 'Cart']",1,22.07,26.33,37.78606,-122.41754
+SEQ055,"['Home', 'Search', 'Product_Page', 'Cart']",2,24.21,29.02,37.78639,-122.41807
+SEQ055,"['Home', 'Search', 'Product_Page', 'Cart']",3,26.14,30.8,37.78666,-122.41822
+SEQ055,"['Home', 'Search', 'Product_Page', 'Cart']",4,27.74,33.06,37.78697,-122.41866
+SEQ056,"['Home', 'Search', 'Product_Page', 'Cart']",1,28.11,56.17,37.78699,-122.41306
+SEQ056,"['Home', 'Search', 'Product_Page', 'Cart']",2,29.58,58.63,37.78759,-122.41337
+SEQ056,"['Home', 'Search', 'Product_Page', 'Cart']",3,31.98,60.31,37.78786,-122.41353
+SEQ056,"['Home', 'Search', 'Product_Page', 'Cart']",4,33.6,62.98,37.78803,-122.41394
+SEQ057,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,34.09,62.79,37.78688,-122.41308
+SEQ057,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,35.97,64.65,37.78737,-122.41338
+SEQ057,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,37.7,67.59,37.78744,-122.41367
+SEQ057,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,39.14,68.87,37.78764,-122.41414
+SEQ058,"['Home', 'Search', 'Product_Page', 'Cart']",1,41.47,46.89,37.78809,-122.42576
+SEQ058,"['Home', 'Search', 'Product_Page', 'Cart']",2,43.03,48.82,37.7885,-122.42608
+SEQ058,"['Home', 'Search', 'Product_Page', 'Cart']",3,45.44,51.1,37.78873,-122.4264
+SEQ058,"['Home', 'Search', 'Product_Page', 'Cart']",4,47.29,53.47,37.78907,-122.4267
+SEQ059,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,17.26,39.76,37.772,-122.39609
+SEQ059,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,17.86,41.18,37.77214,-122.39625
+SEQ059,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,20.58,43.53,37.77257,-122.39673
+SEQ059,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,21.6,46.23,37.77284,-122.39705
+SEQ060,"['Home', 'Search', 'Product_Page', 'Cart']",1,22.54,51.34,37.78737,-122.42056
+SEQ060,"['Home', 'Search', 'Product_Page', 'Cart']",2,23.94,54.2,37.78775,-122.42097
+SEQ060,"['Home', 'Search', 'Product_Page', 'Cart']",3,25.88,56.29,37.78797,-122.42132
+SEQ060,"['Home', 'Search', 'Product_Page', 'Cart']",4,27.45,59.06,37.78823,-122.42146
+SEQ061,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,29.34,40.26,37.77557,-122.42684
+SEQ061,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,30.55,42.06,37.77581,-122.42697
+SEQ061,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,32.38,44.67,37.77615,-122.42731
+SEQ061,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,34.1,47.11,37.77656,-122.42777
+SEQ062,"['Home', 'Search', 'Exit']",1,22.52,57.98,37.77987,-122.40113
+SEQ062,"['Home', 'Search', 'Exit']",2,24.58,59.86,37.78027,-122.40139
+SEQ062,"['Home', 'Search', 'Exit']",3,25.87,62.61,37.78052,-122.40165
+SEQ062,"['Home', 'Search', 'Exit']",4,28.13,65.38,37.78085,-122.40199
+SEQ063,"['Home', 'Search', 'Product_Page', 'Cart']",1,39.13,41.06,37.77631,-122.40853
+SEQ063,"['Home', 'Search', 'Product_Page', 'Cart']",2,41.03,43.4,37.77646,-122.40876
+SEQ063,"['Home', 'Search', 'Product_Page', 'Cart']",3,43.28,46.3,37.77672,-122.40917
+SEQ063,"['Home', 'Search', 'Product_Page', 'Cart']",4,44.86,47.85,37.77735,-122.40934
+SEQ064,"['Home', 'Search', 'Product_Page', 'Cart']",1,41.82,37.8,37.78087,-122.40847
+SEQ064,"['Home', 'Search', 'Product_Page', 'Cart']",2,43.98,40.6,37.78138,-122.40889
+SEQ064,"['Home', 'Search', 'Product_Page', 'Cart']",3,46.31,42.74,37.78174,-122.40923
+SEQ064,"['Home', 'Search', 'Product_Page', 'Cart']",4,47.98,45.3,37.78178,-122.40945
+SEQ065,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,24.57,43.65,37.77359,-122.40497
+SEQ065,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,27.07,46.3,37.77388,-122.40544
+SEQ065,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,28.48,48.22,37.77423,-122.40584
+SEQ065,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,30.37,50.18,37.77453,-122.40603
+SEQ066,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,15.97,34.82,37.77356,-122.40078
+SEQ066,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,17.46,37.39,37.77378,-122.40097
+SEQ066,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,19.56,39.02,37.77417,-122.40102
+SEQ066,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,21,41.41,37.77463,-122.40154
+SEQ067,"['Home', 'Search', 'Exit']",1,26.02,41.57,37.76017,-122.39869
+SEQ067,"['Home', 'Search', 'Exit']",2,27.67,44.31,37.76081,-122.39906
+SEQ067,"['Home', 'Search', 'Exit']",3,29.91,46.16,37.76083,-122.39935
+SEQ067,"['Home', 'Search', 'Exit']",4,31.73,48.68,37.76108,-122.39967
+SEQ068,"['Home', 'Search', 'Exit']",1,37.18,54.09,37.75999,-122.42106
+SEQ068,"['Home', 'Search', 'Exit']",2,38.52,56.48,37.76041,-122.42129
+SEQ068,"['Home', 'Search', 'Exit']",3,40.14,58.05,37.76072,-122.42147
+SEQ068,"['Home', 'Search', 'Exit']",4,41.39,60.19,37.76099,-122.42196
+SEQ069,"['Home', 'Search', 'Exit']",1,21.04,48.15,37.7616,-122.40102
+SEQ069,"['Home', 'Search', 'Exit']",2,22.4,50.36,37.76199,-122.40152
+SEQ069,"['Home', 'Search', 'Exit']",3,24.38,52.65,37.76216,-122.40164
+SEQ069,"['Home', 'Search', 'Exit']",4,25.98,54.72,37.7623,-122.40192
+SEQ070,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,14.97,55.03,37.77265,-122.42452
+SEQ070,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,16.62,56.96,37.77307,-122.42501
+SEQ070,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,18.9,59.96,37.77342,-122.4253
+SEQ070,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,20.27,61.98,37.7736,-122.42537
+SEQ071,"['Home', 'Search', 'Exit']",1,36.31,58.72,37.75045,-122.41423
+SEQ071,"['Home', 'Search', 'Exit']",2,37.99,60.88,37.75066,-122.41475
+SEQ071,"['Home', 'Search', 'Exit']",3,39.15,63.1,37.75105,-122.41494
+SEQ071,"['Home', 'Search', 'Exit']",4,40.97,65.05,37.75117,-122.41523
+SEQ072,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,44.4,40.51,37.78129,-122.42339
+SEQ072,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,46.73,43.19,37.78161,-122.42362
+SEQ072,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,48.15,45.05,37.78181,-122.42396
+SEQ072,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,49.87,47.96,37.78229,-122.4243
+SEQ073,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,20.69,31.21,37.78662,-122.42922
+SEQ073,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,22.46,33.58,37.78703,-122.42948
+SEQ073,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,24.47,35.61,37.78703,-122.42985
+SEQ073,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,25.9,37.98,37.7875,-122.43015
+SEQ074,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,25.97,40.51,37.77861,-122.41026
+SEQ074,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,28.6,42.72,37.7789,-122.41044
+SEQ074,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,29.68,45.11,37.77941,-122.41086
+SEQ074,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,32.18,47.02,37.77958,-122.41099
+SEQ075,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,40.41,30.68,37.77385,-122.4255
+SEQ075,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,42.37,33.12,37.77407,-122.42595
+SEQ075,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,43.9,35.24,37.77435,-122.42616
+SEQ075,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,46.05,37.21,37.77458,-122.42664
+SEQ076,"['Home', 'Search', 'Product_Page', 'Cart']",1,34.05,51.47,37.76962,-122.41921
+SEQ076,"['Home', 'Search', 'Product_Page', 'Cart']",2,35.29,53.19,37.76991,-122.41948
+SEQ076,"['Home', 'Search', 'Product_Page', 'Cart']",3,37.5,56.11,37.77027,-122.41997
+SEQ076,"['Home', 'Search', 'Product_Page', 'Cart']",4,38.68,58.45,37.77059,-122.42019
+SEQ077,"['Home', 'Search', 'Product_Page', 'Cart']",1,16.5,37.92,37.76124,-122.42025
+SEQ077,"['Home', 'Search', 'Product_Page', 'Cart']",2,18.83,40.2,37.76132,-122.42079
+SEQ077,"['Home', 'Search', 'Product_Page', 'Cart']",3,20.12,41.87,37.7617,-122.42102
+SEQ077,"['Home', 'Search', 'Product_Page', 'Cart']",4,21.98,44.49,37.76203,-122.42139
+SEQ078,"['Home', 'Search', 'Exit']",1,16.18,23.2,37.77599,-122.39483
+SEQ078,"['Home', 'Search', 'Exit']",2,18.06,26.17,37.77631,-122.39523
+SEQ078,"['Home', 'Search', 'Exit']",3,19.33,28.84,37.77685,-122.39539
+SEQ078,"['Home', 'Search', 'Exit']",4,21.48,30.01,37.77687,-122.39582
+SEQ079,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,19.25,52.97,37.76933,-122.40395
+SEQ079,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,20.4,56.09,37.76917,-122.40403
+SEQ079,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,22.87,58.06,37.76969,-122.40468
+SEQ079,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,24.94,60.61,37.76999,-122.4048
+SEQ080,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,36.5,42.75,37.75258,-122.40523
+SEQ080,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,37.76,44.94,37.75319,-122.40551
+SEQ080,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,39.7,47.74,37.75337,-122.40609
+SEQ080,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,41.9,49.23,37.75364,-122.4061
+SEQ081,"['Home', 'Search', 'Exit']",1,18.47,26.94,37.76697,-122.39098
+SEQ081,"['Home', 'Search', 'Exit']",2,20.72,30.07,37.76733,-122.39123
+SEQ081,"['Home', 'Search', 'Exit']",3,22.28,32.13,37.76753,-122.39149
+SEQ081,"['Home', 'Search', 'Exit']",4,23.8,34.4,37.7677,-122.39182
+SEQ082,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,27.63,26.79,37.77999,-122.39163
+SEQ082,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,28.89,28.7,37.78038,-122.39186
+SEQ082,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,30.9,31.65,37.78061,-122.392
+SEQ082,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,32.41,33.18,37.78099,-122.39221
+SEQ083,"['Home', 'Search', 'Exit']",1,15.61,42.53,37.76856,-122.39568
+SEQ083,"['Home', 'Search', 'Exit']",2,17.75,45.17,37.76905,-122.39594
+SEQ083,"['Home', 'Search', 'Exit']",3,19.35,46.9,37.7692,-122.39617
+SEQ083,"['Home', 'Search', 'Exit']",4,21.86,48.93,37.76941,-122.3966
+SEQ084,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,35.91,40.39,37.78049,-122.39904
+SEQ084,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,37.16,42.66,37.78092,-122.39914
+SEQ084,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,39.34,45.41,37.78128,-122.39954
+SEQ084,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,41.19,46.79,37.78146,-122.39998
+SEQ085,"['Home', 'Search', 'Product_Page', 'Cart']",1,37.77,39.83,37.77274,-122.42473
+SEQ085,"['Home', 'Search', 'Product_Page', 'Cart']",2,39.22,42.23,37.77306,-122.42502
+SEQ085,"['Home', 'Search', 'Product_Page', 'Cart']",3,41.94,44.7,37.77324,-122.42536
+SEQ085,"['Home', 'Search', 'Product_Page', 'Cart']",4,42.74,46.8,37.77341,-122.42582
+SEQ086,"['Home', 'Search', 'Exit']",1,37.91,43.16,37.77262,-122.39395
+SEQ086,"['Home', 'Search', 'Exit']",2,39.88,45.34,37.77273,-122.39433
+SEQ086,"['Home', 'Search', 'Exit']",3,41.52,48.32,37.77334,-122.39479
+SEQ086,"['Home', 'Search', 'Exit']",4,43.57,51.02,37.77364,-122.39493
+SEQ087,"['Home', 'Search', 'Product_Page', 'Cart']",1,43.17,50.82,37.77161,-122.40059
+SEQ087,"['Home', 'Search', 'Product_Page', 'Cart']",2,44.62,53.26,37.77169,-122.40067
+SEQ087,"['Home', 'Search', 'Product_Page', 'Cart']",3,46.68,55.83,37.77221,-122.40114
+SEQ087,"['Home', 'Search', 'Product_Page', 'Cart']",4,48.59,58.54,37.77253,-122.40137
+SEQ088,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,46.4,51.78,37.78487,-122.40356
+SEQ088,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,48.22,53.96,37.78534,-122.40369
+SEQ088,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,50.28,56.11,37.78549,-122.40408
+SEQ088,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,51.36,58.72,37.78604,-122.40431
+SEQ089,"['Home', 'Search', 'Product_Page', 'Cart']",1,39.4,47.4,37.78478,-122.41133
+SEQ089,"['Home', 'Search', 'Product_Page', 'Cart']",2,40.76,49.89,37.78533,-122.41129
+SEQ089,"['Home', 'Search', 'Product_Page', 'Cart']",3,42.5,52.43,37.78539,-122.41161
+SEQ089,"['Home', 'Search', 'Product_Page', 'Cart']",4,44.73,54.38,37.78586,-122.41202
+SEQ090,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,15.22,23.89,37.7578,-122.42812
+SEQ090,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,17.05,26.39,37.75828,-122.42837
+SEQ090,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,18.48,28.17,37.7585,-122.42843
+SEQ090,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,20.28,30.92,37.75871,-122.42884
+SEQ091,"['Home', 'Search', 'Exit']",1,30.36,30.42,37.78552,-122.41787
+SEQ091,"['Home', 'Search', 'Exit']",2,32.14,33.1,37.78588,-122.41823
+SEQ091,"['Home', 'Search', 'Exit']",3,33.5,34.47,37.78619,-122.41856
+SEQ091,"['Home', 'Search', 'Exit']",4,35.55,37.33,37.78632,-122.41878
+SEQ092,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,34.65,47.56,37.76642,-122.40536
+SEQ092,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,36.24,50.21,37.76653,-122.40609
+SEQ092,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,37.96,52.42,37.76652,-122.40592
+SEQ092,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,39.84,54.87,37.7671,-122.40628
+SEQ093,"['Home', 'Search', 'Exit']",1,33,47.47,37.78925,-122.41262
+SEQ093,"['Home', 'Search', 'Exit']",2,34.21,49.39,37.78952,-122.41276
+SEQ093,"['Home', 'Search', 'Exit']",3,36.01,51.93,37.78983,-122.4132
+SEQ093,"['Home', 'Search', 'Exit']",4,37.52,53.94,37.78986,-122.41349
+SEQ094,"['Home', 'Search', 'Product_Page', 'Cart']",1,29.46,36.47,37.78299,-122.40459
+SEQ094,"['Home', 'Search', 'Product_Page', 'Cart']",2,30.1,38.7,37.78349,-122.40503
+SEQ094,"['Home', 'Search', 'Product_Page', 'Cart']",3,32.24,41.06,37.78367,-122.40493
+SEQ094,"['Home', 'Search', 'Product_Page', 'Cart']",4,34.18,43.62,37.78403,-122.40553
+SEQ095,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,24.05,34.6,37.78666,-122.40763
+SEQ095,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,25.58,36.83,37.78705,-122.40769
+SEQ095,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,27.85,39.14,37.78731,-122.40828
+SEQ095,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,29.74,41.55,37.78772,-122.40839
+SEQ096,"['Home', 'Search', 'Product_Page', 'Cart']",1,42.4,30.94,37.7635,-122.39573
+SEQ096,"['Home', 'Search', 'Product_Page', 'Cart']",2,43.84,33.41,37.76384,-122.39578
+SEQ096,"['Home', 'Search', 'Product_Page', 'Cart']",3,45.91,34.63,37.76407,-122.39629
+SEQ096,"['Home', 'Search', 'Product_Page', 'Cart']",4,47.84,37.87,37.76443,-122.39662
+SEQ097,"['Home', 'Search', 'Exit']",1,15.65,23.56,37.77215,-122.39542
+SEQ097,"['Home', 'Search', 'Exit']",2,17.82,25.92,37.77246,-122.39582
+SEQ097,"['Home', 'Search', 'Exit']",3,19.88,28.37,37.77276,-122.39597
+SEQ097,"['Home', 'Search', 'Exit']",4,21.55,30.82,37.77307,-122.39639
+SEQ098,"['Home', 'Search', 'Product_Page', 'Cart']",1,18.48,37.08,37.76502,-122.39196
+SEQ098,"['Home', 'Search', 'Product_Page', 'Cart']",2,20.71,40.01,37.76534,-122.39222
+SEQ098,"['Home', 'Search', 'Product_Page', 'Cart']",3,22.49,42,37.76572,-122.39255
+SEQ098,"['Home', 'Search', 'Product_Page', 'Cart']",4,24.57,44.58,37.76596,-122.39264
+SEQ099,"['Home', 'Search', 'Exit']",1,24.17,55.07,37.75787,-122.39375
+SEQ099,"['Home', 'Search', 'Exit']",2,25.96,58.03,37.75805,-122.39374
+SEQ099,"['Home', 'Search', 'Exit']",3,28.34,60.35,37.75845,-122.39416
+SEQ099,"['Home', 'Search', 'Exit']",4,30.13,62.34,37.75881,-122.39452
+SEQ100,"['Home', 'Search', 'Product_Page', 'Cart']",1,27.72,36.49,37.76251,-122.42813
+SEQ100,"['Home', 'Search', 'Product_Page', 'Cart']",2,29.46,38.36,37.76279,-122.42827
+SEQ100,"['Home', 'Search', 'Product_Page', 'Cart']",3,31.45,40.77,37.76324,-122.4287
+SEQ100,"['Home', 'Search', 'Product_Page', 'Cart']",4,33.65,42.98,37.76346,-122.42905
+SEQ101,"['Home', 'Search', 'Exit']",1,36.39,46.79,37.76187,-122.41018
+SEQ101,"['Home', 'Search', 'Exit']",2,37.07,48.91,37.76213,-122.41058
+SEQ101,"['Home', 'Search', 'Exit']",3,39.01,51.46,37.7627,-122.411
+SEQ101,"['Home', 'Search', 'Exit']",4,41.24,53.64,37.76272,-122.41134
+SEQ102,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,19.99,54.26,37.75825,-122.42152
+SEQ102,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,21.93,56.46,37.75842,-122.4218
+SEQ102,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,23.85,58.22,37.75881,-122.42207
+SEQ102,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,25.3,61.43,37.75896,-122.42241
+SEQ103,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,37.06,23.19,37.76649,-122.42956
+SEQ103,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,39.24,24.88,37.76669,-122.42983
+SEQ103,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,40.85,27.69,37.76716,-122.43019
+SEQ103,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,42.78,30.34,37.76739,-122.43031
+SEQ104,"['Home', 'Search', 'Product_Page', 'Cart']",1,34.76,22.61,37.7522,-122.39876
+SEQ104,"['Home', 'Search', 'Product_Page', 'Cart']",2,36.37,25.03,37.75242,-122.39885
+SEQ104,"['Home', 'Search', 'Product_Page', 'Cart']",3,38.57,27.33,37.75265,-122.39924
+SEQ104,"['Home', 'Search', 'Product_Page', 'Cart']",4,40.27,30.02,37.75301,-122.39929
+SEQ105,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,19.16,29.73,37.78873,-122.40515
+SEQ105,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,21.56,32.36,37.78894,-122.40546
+SEQ105,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,23.28,34.52,37.78939,-122.40574
+SEQ105,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,25.16,36.38,37.78952,-122.40602
+SEQ106,"['Home', 'Search', 'Exit']",1,19.16,26.81,37.7866,-122.42068
+SEQ106,"['Home', 'Search', 'Exit']",2,20.74,28.75,37.78711,-122.42076
+SEQ106,"['Home', 'Search', 'Exit']",3,22.35,30.83,37.78728,-122.42103
+SEQ106,"['Home', 'Search', 'Exit']",4,24.38,33.6,37.78751,-122.42141
+SEQ107,"['Home', 'Search', 'Exit']",1,29.69,33.59,37.75652,-122.39513
+SEQ107,"['Home', 'Search', 'Exit']",2,31.52,35.63,37.75689,-122.39531
+SEQ107,"['Home', 'Search', 'Exit']",3,33.26,37.7,37.75723,-122.39575
+SEQ107,"['Home', 'Search', 'Exit']",4,35.65,40.12,37.75748,-122.39594
+SEQ108,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,42.81,26.07,37.75501,-122.39385
+SEQ108,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,44.48,28.47,37.75546,-122.39407
+SEQ108,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46.2,30.62,37.7557,-122.39447
+SEQ108,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.84,32.65,37.75573,-122.39456
+SEQ109,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,36.61,32.03,37.75307,-122.40334
+SEQ109,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,38.9,34.03,37.75327,-122.40361
+SEQ109,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,40.22,35.73,37.75365,-122.4039
+SEQ109,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,42.38,38.42,37.75401,-122.40422
+SEQ110,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,23.88,23.26,37.78184,-122.42414
+SEQ110,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,25.83,25.79,37.78233,-122.42432
+SEQ110,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,27.75,27.65,37.78268,-122.42472
+SEQ110,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,28.85,29.72,37.783,-122.42487
+SEQ111,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,42.44,41.41,37.77783,-122.40224
+SEQ111,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,44.07,44.38,37.77843,-122.40274
+SEQ111,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,46.28,46.24,37.77858,-122.4029
+SEQ111,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,48.7,49.24,37.77907,-122.40326
+SEQ112,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,33.6,36.42,37.78035,-122.40308
+SEQ112,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,35.33,39.17,37.78063,-122.40346
+SEQ112,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,37.54,41.98,37.78088,-122.40385
+SEQ112,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,39.69,43.69,37.7812,-122.40422
+SEQ113,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,43.73,42.63,37.77445,-122.39979
+SEQ113,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,45.47,45.2,37.77472,-122.40024
+SEQ113,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46.76,46.99,37.77514,-122.40055
+SEQ113,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,49.14,49,37.77552,-122.40099
+SEQ114,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,22.11,38.29,37.75443,-122.41354
+SEQ114,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,24.84,40.46,37.75457,-122.41403
+SEQ114,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,25.94,43.14,37.75501,-122.41427
+SEQ114,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,27.74,44.79,37.75527,-122.41442
+SEQ115,"['Home', 'Search', 'Product_Page', 'Cart']",1,40.44,45.1,37.75067,-122.39294
+SEQ115,"['Home', 'Search', 'Product_Page', 'Cart']",2,41.92,47.32,37.75092,-122.3933
+SEQ115,"['Home', 'Search', 'Product_Page', 'Cart']",3,44.56,49.77,37.75124,-122.39354
+SEQ115,"['Home', 'Search', 'Product_Page', 'Cart']",4,46.21,51.5,37.75171,-122.39374
+SEQ116,"['Home', 'Search', 'Exit']",1,44.94,55.54,37.75198,-122.42101
+SEQ116,"['Home', 'Search', 'Exit']",2,47.18,57.91,37.75206,-122.42133
+SEQ116,"['Home', 'Search', 'Exit']",3,49.62,60.24,37.75258,-122.42168
+SEQ116,"['Home', 'Search', 'Exit']",4,50.36,62.72,37.7529,-122.42201
+SEQ117,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,13.67,61.69,37.77917,-122.42613
+SEQ117,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,15.49,63.99,37.77957,-122.42676
+SEQ117,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,17.41,66.21,37.77998,-122.42682
+SEQ117,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,19.18,69.59,37.78,-122.42708
+SEQ118,"['Home', 'Search', 'Product_Page', 'Cart']",1,31.11,33.09,37.77558,-122.42723
+SEQ118,"['Home', 'Search', 'Product_Page', 'Cart']",2,33.32,36.08,37.77571,-122.42765
+SEQ118,"['Home', 'Search', 'Product_Page', 'Cart']",3,34.57,37.77,37.77615,-122.42788
+SEQ118,"['Home', 'Search', 'Product_Page', 'Cart']",4,37.01,40.28,37.77633,-122.42802
+SEQ119,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,35.86,51.08,37.75772,-122.41642
+SEQ119,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,37.2,53.17,37.75816,-122.41681
+SEQ119,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,39,55.63,37.75824,-122.41704
+SEQ119,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,41.72,57.84,37.75853,-122.4172
+SEQ120,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,38.79,62.44,37.75125,-122.39415
+SEQ120,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,40.6,65.01,37.75174,-122.39477
+SEQ120,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,42.14,66.78,37.75198,-122.39482
+SEQ120,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,43.83,69.06,37.75221,-122.3954
+SEQ121,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,39.18,28.54,37.7665,-122.4049
+SEQ121,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,41.7,30.5,37.76697,-122.40513
+SEQ121,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,43.42,32.75,37.76714,-122.40532
+SEQ121,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,45.17,35.45,37.76742,-122.40559
+SEQ122,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.14,54.5,37.78607,-122.39355
+SEQ122,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.4,56.9,37.78638,-122.39387
+SEQ122,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,42.62,59.35,37.78657,-122.39417
+SEQ122,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,45.1,61.62,37.78695,-122.39452
+SEQ123,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,22.84,59.68,37.78502,-122.42546
+SEQ123,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,24.76,62.52,37.78534,-122.42605
+SEQ123,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,26.67,64.79,37.78548,-122.42625
+SEQ123,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,28.67,67.26,37.78604,-122.42655
+SEQ124,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,42.32,48.53,37.78137,-122.40118
+SEQ124,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,43.35,51.06,37.78156,-122.40143
+SEQ124,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,45.98,53.39,37.78214,-122.40187
+SEQ124,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,48.02,55.75,37.78226,-122.40222
+SEQ125,"['Home', 'Search', 'Exit']",1,38.31,29.26,37.75506,-122.42755
+SEQ125,"['Home', 'Search', 'Exit']",2,38.9,31.58,37.75533,-122.42778
+SEQ125,"['Home', 'Search', 'Exit']",3,41.58,34.17,37.75571,-122.42804
+SEQ125,"['Home', 'Search', 'Exit']",4,43.59,36.07,37.75592,-122.42814
+SEQ126,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,18.85,28.72,37.76483,-122.40796
+SEQ126,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,20.61,31.51,37.76475,-122.40797
+SEQ126,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,22.71,33.41,37.76534,-122.40845
+SEQ126,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,23.82,35.55,37.76541,-122.40871
+SEQ127,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,15.94,35.95,37.78572,-122.39396
+SEQ127,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,17.24,38.45,37.78612,-122.39416
+SEQ127,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,19.06,41.06,37.78649,-122.39439
+SEQ127,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,20.75,43.49,37.78662,-122.39475
+SEQ128,"['Home', 'Search', 'Product_Page', 'Cart']",1,34.95,42.31,37.78942,-122.40894
+SEQ128,"['Home', 'Search', 'Product_Page', 'Cart']",2,37.16,44.65,37.78995,-122.40916
+SEQ128,"['Home', 'Search', 'Product_Page', 'Cart']",3,39,46.89,37.79017,-122.40963
+SEQ128,"['Home', 'Search', 'Product_Page', 'Cart']",4,40.19,49.81,37.79049,-122.40982
+SEQ129,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,46.44,59.8,37.78904,-122.40585
+SEQ129,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,47.62,62.31,37.78931,-122.40593
+SEQ129,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,49.4,64.68,37.78974,-122.40633
+SEQ129,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,51.55,66.38,37.78997,-122.40658
+SEQ130,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,45.81,28.84,37.75902,-122.41813
+SEQ130,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,47.85,31.84,37.75909,-122.41852
+SEQ130,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,49.66,34.32,37.75962,-122.41877
+SEQ130,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,51.33,36.3,37.75984,-122.41911
+SEQ131,"['Home', 'Search', 'Product_Page', 'Cart']",1,26.67,26.42,37.79042,-122.40584
+SEQ131,"['Home', 'Search', 'Product_Page', 'Cart']",2,29.67,28.88,37.79048,-122.40593
+SEQ131,"['Home', 'Search', 'Product_Page', 'Cart']",3,30.99,30.86,37.79079,-122.40626
+SEQ131,"['Home', 'Search', 'Product_Page', 'Cart']",4,33.14,32.89,37.79111,-122.40664
+SEQ132,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,27.48,61.78,37.777,-122.40817
+SEQ132,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,28.99,64.31,37.77718,-122.40863
+SEQ132,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,31.06,66.72,37.77745,-122.40906
+SEQ132,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,32.36,69.14,37.778,-122.40924
+SEQ133,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,42.36,40.82,37.75628,-122.42339
+SEQ133,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,44.27,43.19,37.75638,-122.42389
+SEQ133,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46.28,45.4,37.75668,-122.42414
+SEQ133,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.81,47.85,37.75717,-122.42443
+SEQ134,"['Home', 'Search', 'Product_Page', 'Cart']",1,37.87,58.79,37.76419,-122.42811
+SEQ134,"['Home', 'Search', 'Product_Page', 'Cart']",2,39.7,61.21,37.76436,-122.42854
+SEQ134,"['Home', 'Search', 'Product_Page', 'Cart']",3,41.64,63.12,37.76478,-122.42871
+SEQ134,"['Home', 'Search', 'Product_Page', 'Cart']",4,43.58,65.44,37.76506,-122.42902
+SEQ135,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,18.41,32.14,37.77858,-122.4133
+SEQ135,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,19.55,34.73,37.77883,-122.4135
+SEQ135,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,22.35,37.04,37.77939,-122.41383
+SEQ135,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,24.25,38.6,37.77963,-122.41404
+SEQ136,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,40.53,40.63,37.76213,-122.39291
+SEQ136,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,42.9,43.2,37.76245,-122.39348
+SEQ136,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,44.1,45.41,37.7625,-122.39351
+SEQ136,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,46.07,48.29,37.76308,-122.39376
+SEQ137,"['Home', 'Search', 'Product_Page', 'Cart']",1,38.16,40.96,37.76143,-122.39804
+SEQ137,"['Home', 'Search', 'Product_Page', 'Cart']",2,40.74,42.79,37.76178,-122.39849
+SEQ137,"['Home', 'Search', 'Product_Page', 'Cart']",3,42.27,45.46,37.7621,-122.39843
+SEQ137,"['Home', 'Search', 'Product_Page', 'Cart']",4,43.81,47.16,37.76218,-122.39888
+SEQ138,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,36.99,36.42,37.77254,-122.41593
+SEQ138,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,38.56,38.47,37.77292,-122.41603
+SEQ138,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,40.11,40.64,37.77316,-122.41647
+SEQ138,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,42.05,43.29,37.7734,-122.41677
+SEQ139,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,14.01,42.44,37.76323,-122.4063
+SEQ139,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,16.19,44.1,37.7633,-122.40664
+SEQ139,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,17.8,46.83,37.76375,-122.40678
+SEQ139,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,19.35,49.32,37.76412,-122.40717
+SEQ140,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,27.17,22.65,37.77522,-122.4136
+SEQ140,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,29.5,24.25,37.77551,-122.41366
+SEQ140,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,30.81,26.82,37.77576,-122.4139
+SEQ140,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,32.67,29.27,37.77607,-122.41437
+SEQ141,"['Home', 'Search', 'Product_Page', 'Cart']",1,26.58,55.83,37.76023,-122.40094
+SEQ141,"['Home', 'Search', 'Product_Page', 'Cart']",2,28.58,59.07,37.76072,-122.40125
+SEQ141,"['Home', 'Search', 'Product_Page', 'Cart']",3,29.88,60.49,37.76066,-122.40153
+SEQ141,"['Home', 'Search', 'Product_Page', 'Cart']",4,31.88,63.27,37.76107,-122.40172
+SEQ142,"['Home', 'Search', 'Exit']",1,40.11,39.95,37.78171,-122.4198
+SEQ142,"['Home', 'Search', 'Exit']",2,41.6,42.78,37.78213,-122.42011
+SEQ142,"['Home', 'Search', 'Exit']",3,43.68,45.12,37.78223,-122.4205
+SEQ142,"['Home', 'Search', 'Exit']",4,44.94,46.97,37.78256,-122.42074
+SEQ143,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,25.43,56.45,37.79011,-122.4095
+SEQ143,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,28.12,59.25,37.79012,-122.40975
+SEQ143,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,30.2,61.29,37.79047,-122.41014
+SEQ143,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,31.19,63.86,37.79082,-122.41037
+SEQ144,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,28,24.4,37.78786,-122.42286
+SEQ144,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,29.88,26.08,37.78841,-122.42289
+SEQ144,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,31.5,28.77,37.78873,-122.42335
+SEQ144,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,33.22,31.35,37.78887,-122.42367
+SEQ145,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,36.74,24.06,37.78805,-122.42779
+SEQ145,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,38.28,26.42,37.78835,-122.42809
+SEQ145,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,39.79,28.33,37.7886,-122.42848
+SEQ145,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,41.87,30.69,37.78898,-122.42872
+SEQ146,"['Home', 'Search', 'Product_Page', 'Cart']",1,14.5,59.11,37.77714,-122.41394
+SEQ146,"['Home', 'Search', 'Product_Page', 'Cart']",2,15.94,62.45,37.77727,-122.4143
+SEQ146,"['Home', 'Search', 'Product_Page', 'Cart']",3,17.62,63.97,37.77782,-122.41451
+SEQ146,"['Home', 'Search', 'Product_Page', 'Cart']",4,19.9,66.36,37.77797,-122.41464
+SEQ147,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,44.91,42.72,37.75972,-122.41835
+SEQ147,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,46.65,44.52,37.76002,-122.41855
+SEQ147,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,48.17,47.4,37.76026,-122.41898
+SEQ147,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,50.31,49.95,37.76059,-122.41919
+SEQ148,"['Home', 'Search', 'Product_Page', 'Cart']",1,38.66,54.61,37.78775,-122.41557
+SEQ148,"['Home', 'Search', 'Product_Page', 'Cart']",2,40.42,56.58,37.78807,-122.41578
+SEQ148,"['Home', 'Search', 'Product_Page', 'Cart']",3,42.4,59.21,37.78833,-122.41616
+SEQ148,"['Home', 'Search', 'Product_Page', 'Cart']",4,44.2,61.33,37.78877,-122.41659
+SEQ149,"['Home', 'Search', 'Exit']",1,17.52,26.81,37.75339,-122.39726
+SEQ149,"['Home', 'Search', 'Exit']",2,18.85,28.6,37.75362,-122.39762
+SEQ149,"['Home', 'Search', 'Exit']",3,21.05,31.24,37.75388,-122.39797
+SEQ149,"['Home', 'Search', 'Exit']",4,23.15,33.69,37.75411,-122.39815
+SEQ150,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,35.84,52,37.78654,-122.42298
+SEQ150,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,37.76,53.8,37.78683,-122.42316
+SEQ150,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,39.53,56.87,37.78724,-122.42374
+SEQ150,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,41.44,59.03,37.78761,-122.42385
+SEQ151,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,19.54,49.68,37.75813,-122.42398
+SEQ151,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,21.38,51.8,37.75832,-122.42448
+SEQ151,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,23.3,54.04,37.75854,-122.42477
+SEQ151,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,24.73,56.31,37.75869,-122.42508
+SEQ152,"['Home', 'Search', 'Exit']",1,35.71,29.9,37.78564,-122.42234
+SEQ152,"['Home', 'Search', 'Exit']",2,37.13,32.36,37.78602,-122.42275
+SEQ152,"['Home', 'Search', 'Exit']",3,40.13,35.15,37.78614,-122.42293
+SEQ152,"['Home', 'Search', 'Exit']",4,40.82,37.08,37.78651,-122.42308
+SEQ153,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,17.13,46.95,37.777,-122.40077
+SEQ153,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,19.31,49.69,37.77735,-122.401
+SEQ153,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,21.02,51.72,37.7775,-122.4013
+SEQ153,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,22.55,53.92,37.77779,-122.40146
+SEQ154,"['Home', 'Search', 'Product_Page', 'Cart']",1,24.29,55.96,37.76941,-122.40821
+SEQ154,"['Home', 'Search', 'Product_Page', 'Cart']",2,26.24,58.39,37.76951,-122.40855
+SEQ154,"['Home', 'Search', 'Product_Page', 'Cart']",3,27.51,60.74,37.76998,-122.4087
+SEQ154,"['Home', 'Search', 'Product_Page', 'Cart']",4,29.31,62.79,37.77021,-122.40909
+SEQ155,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,31.9,52.69,37.77276,-122.4285
+SEQ155,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,34.21,55.23,37.77291,-122.4289
+SEQ155,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,36.18,57.2,37.77333,-122.42912
+SEQ155,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,37.89,59.23,37.77358,-122.42954
+SEQ156,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,15.33,56.62,37.77203,-122.39145
+SEQ156,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,17.36,58.62,37.7724,-122.39172
+SEQ156,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,19.08,60.41,37.77271,-122.39209
+SEQ156,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,20.62,62.79,37.77275,-122.39225
+SEQ157,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,26.36,30.25,37.78217,-122.42021
+SEQ157,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,27.62,32.33,37.78252,-122.42071
+SEQ157,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,30.16,34.56,37.78294,-122.42096
+SEQ157,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,31.76,36.91,37.78311,-122.42111
+SEQ158,"['Home', 'Search', 'Product_Page', 'Cart']",1,23.93,52.37,37.75379,-122.42939
+SEQ158,"['Home', 'Search', 'Product_Page', 'Cart']",2,26.1,54.43,37.75418,-122.42956
+SEQ158,"['Home', 'Search', 'Product_Page', 'Cart']",3,28.09,56.5,37.75437,-122.43003
+SEQ158,"['Home', 'Search', 'Product_Page', 'Cart']",4,29.13,58.89,37.75463,-122.43023
+SEQ159,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,26,47.91,37.75139,-122.42062
+SEQ159,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,28.11,50.07,37.75169,-122.4208
+SEQ159,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,30.57,52.22,37.75207,-122.42127
+SEQ159,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,32.49,54.57,37.75246,-122.42133
+SEQ160,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,42.42,26.94,37.76002,-122.39143
+SEQ160,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,43.96,29.63,37.76034,-122.39163
+SEQ160,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46.32,31.36,37.76051,-122.39198
+SEQ160,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.58,34.16,37.76074,-122.39214
+SEQ161,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,41.4,53.01,37.78167,-122.41132
+SEQ161,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,44.1,55.22,37.78215,-122.41167
+SEQ161,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,45.64,58.14,37.78263,-122.4118
+SEQ161,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.36,59.7,37.78259,-122.4121
+SEQ162,"['Home', 'Search', 'Exit']",1,17.34,35.02,37.75731,-122.4168
+SEQ162,"['Home', 'Search', 'Exit']",2,18.68,37.39,37.75748,-122.41685
+SEQ162,"['Home', 'Search', 'Exit']",3,20.18,39.78,37.75774,-122.41712
+SEQ162,"['Home', 'Search', 'Exit']",4,22.06,41.35,37.7583,-122.4174
+SEQ163,"['Home', 'Search', 'Product_Page', 'Cart']",1,21.82,31.89,37.78845,-122.42351
+SEQ163,"['Home', 'Search', 'Product_Page', 'Cart']",2,23.41,33.69,37.78884,-122.42374
+SEQ163,"['Home', 'Search', 'Product_Page', 'Cart']",3,25.36,36.26,37.78904,-122.42404
+SEQ163,"['Home', 'Search', 'Product_Page', 'Cart']",4,26.88,38.56,37.7896,-122.42442
+SEQ164,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,36.17,27.26,37.76722,-122.41537
+SEQ164,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,37.4,29.03,37.76757,-122.41558
+SEQ164,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,39.74,31.37,37.7679,-122.41603
+SEQ164,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,40.67,34.24,37.76827,-122.41627
+SEQ165,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,20.2,40.47,37.77601,-122.42043
+SEQ165,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,22.37,42.59,37.77645,-122.42088
+SEQ165,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,23.55,44.97,37.77694,-122.42126
+SEQ165,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,25.11,46.98,37.77716,-122.42144
+SEQ166,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,36.36,35.58,37.77113,-122.40648
+SEQ166,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,38.67,38.3,37.77152,-122.40702
+SEQ166,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,40.55,40.49,37.77152,-122.40738
+SEQ166,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,42.57,43.32,37.77211,-122.40755
+SEQ167,"['Home', 'Search', 'Product_Page', 'Cart']",1,46.46,52.79,37.78393,-122.41478
+SEQ167,"['Home', 'Search', 'Product_Page', 'Cart']",2,47.87,55.18,37.78431,-122.41507
+SEQ167,"['Home', 'Search', 'Product_Page', 'Cart']",3,50.07,57.4,37.78459,-122.41548
+SEQ167,"['Home', 'Search', 'Product_Page', 'Cart']",4,51.37,60.33,37.78488,-122.41577
+SEQ168,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,16.99,26.61,37.7732,-122.39173
+SEQ168,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,19.16,28.7,37.77361,-122.39202
+SEQ168,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,20.74,30.86,37.77391,-122.39226
+SEQ168,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,22.51,32.87,37.77408,-122.39243
+SEQ169,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,15.15,48.23,37.75847,-122.41986
+SEQ169,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,16.56,50.8,37.75888,-122.42006
+SEQ169,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,19.07,53.07,37.75885,-122.42054
+SEQ169,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,20.87,55.23,37.75927,-122.42068
+SEQ170,"['Home', 'Search', 'Exit']",1,39.03,37.17,37.77748,-122.42676
+SEQ170,"['Home', 'Search', 'Exit']",2,40.86,40.5,37.77771,-122.42717
+SEQ170,"['Home', 'Search', 'Exit']",3,43.18,42.85,37.77824,-122.42736
+SEQ170,"['Home', 'Search', 'Exit']",4,45.14,44.72,37.77857,-122.42785
+SEQ171,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,32.52,33.18,37.78652,-122.41285
+SEQ171,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,35.15,34.29,37.78694,-122.41339
+SEQ171,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,36.55,37.16,37.78717,-122.41328
+SEQ171,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,38.26,39.56,37.78745,-122.41365
+SEQ172,"['Home', 'Search', 'Exit']",1,25.68,53.19,37.75916,-122.419
+SEQ172,"['Home', 'Search', 'Exit']",2,27.37,55.76,37.75955,-122.41914
+SEQ172,"['Home', 'Search', 'Exit']",3,29.34,57.98,37.7598,-122.41933
+SEQ172,"['Home', 'Search', 'Exit']",4,31.34,60.64,37.76001,-122.41963
+SEQ173,"['Home', 'Search', 'Exit']",1,33.65,42.95,37.77708,-122.40385
+SEQ173,"['Home', 'Search', 'Exit']",2,35.81,45.43,37.77719,-122.40386
+SEQ173,"['Home', 'Search', 'Exit']",3,37.77,48.13,37.77742,-122.40411
+SEQ173,"['Home', 'Search', 'Exit']",4,38.74,50.34,37.77769,-122.40447
+SEQ174,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,34.61,27.57,37.789,-122.39491
+SEQ174,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,36.86,29.21,37.78925,-122.39532
+SEQ174,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,38.45,31.38,37.78977,-122.3958
+SEQ174,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,39.52,33.36,37.78973,-122.39585
+SEQ175,"['Home', 'Search', 'Product_Page', 'Cart']",1,19.7,51.08,37.75176,-122.39996
+SEQ175,"['Home', 'Search', 'Product_Page', 'Cart']",2,20.98,53.55,37.75201,-122.4005
+SEQ175,"['Home', 'Search', 'Product_Page', 'Cart']",3,23.39,55.24,37.75212,-122.40069
+SEQ175,"['Home', 'Search', 'Product_Page', 'Cart']",4,24.7,58.23,37.75276,-122.401
+SEQ176,"['Home', 'Search', 'Product_Page', 'Cart']",1,36.27,34.73,37.78421,-122.3917
+SEQ176,"['Home', 'Search', 'Product_Page', 'Cart']",2,38,37.71,37.78467,-122.39196
+SEQ176,"['Home', 'Search', 'Product_Page', 'Cart']",3,39.43,39.58,37.78482,-122.39235
+SEQ176,"['Home', 'Search', 'Product_Page', 'Cart']",4,42,41.66,37.78517,-122.3927
+SEQ177,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,17.42,44.22,37.76086,-122.39469
+SEQ177,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,19.86,47.14,37.76117,-122.39515
+SEQ177,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,21.52,49.28,37.76138,-122.39537
+SEQ177,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,23.23,50.99,37.76167,-122.3958
+SEQ178,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,18.98,28.13,37.76838,-122.39606
+SEQ178,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,21.28,31.25,37.76864,-122.39627
+SEQ178,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,23.4,33.24,37.76892,-122.3967
+SEQ178,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,24.85,34.92,37.76937,-122.39697
+SEQ179,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,45.88,51.22,37.76533,-122.42716
+SEQ179,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,47.23,53.68,37.76552,-122.42767
+SEQ179,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,49.03,55.08,37.7659,-122.42774
+SEQ179,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,50.79,58.02,37.76619,-122.42809
+SEQ180,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,37.1,30.61,37.7863,-122.39026
+SEQ180,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,39.05,32.57,37.78665,-122.39052
+SEQ180,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,40.75,34.69,37.78692,-122.39091
+SEQ180,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,42.11,36.99,37.78721,-122.39133
+SEQ181,"['Home', 'Search', 'Exit']",1,42.84,56.9,37.75065,-122.40432
+SEQ181,"['Home', 'Search', 'Exit']",2,45.22,60.05,37.75104,-122.4046
+SEQ181,"['Home', 'Search', 'Exit']",3,46.6,61.71,37.7513,-122.40478
+SEQ181,"['Home', 'Search', 'Exit']",4,49.13,63.57,37.75161,-122.40535
+SEQ182,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,32.94,38.93,37.75118,-122.40284
+SEQ182,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,35.28,41.5,37.75117,-122.4033
+SEQ182,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,36.52,43.46,37.75156,-122.40338
+SEQ182,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,38.3,45.42,37.75195,-122.40372
+SEQ183,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,17.85,30.61,37.7551,-122.41224
+SEQ183,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,19.97,33.12,37.75534,-122.41288
+SEQ183,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,21.58,35.41,37.75569,-122.41306
+SEQ183,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,23.33,37.65,37.7562,-122.41346
+SEQ184,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,16.48,22.37,37.75836,-122.41377
+SEQ184,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,17.44,24.73,37.75856,-122.41379
+SEQ184,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,20.15,27.84,37.75891,-122.41442
+SEQ184,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,21.17,28.97,37.75912,-122.41471
+SEQ185,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,13.85,50.18,37.77363,-122.42766
+SEQ185,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,15.68,51.96,37.77394,-122.4277
+SEQ185,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,17.2,54.93,37.77406,-122.42821
+SEQ185,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,19.5,56.8,37.7746,-122.42851
+SEQ186,"['Home', 'Search', 'Product_Page', 'Cart']",1,14.35,45.61,37.77292,-122.42216
+SEQ186,"['Home', 'Search', 'Product_Page', 'Cart']",2,16.12,47.33,37.77314,-122.42251
+SEQ186,"['Home', 'Search', 'Product_Page', 'Cart']",3,18.43,50.41,37.77347,-122.42272
+SEQ186,"['Home', 'Search', 'Product_Page', 'Cart']",4,20.2,52.78,37.77385,-122.42306
+SEQ187,"['Home', 'Search', 'Product_Page', 'Cart']",1,29.11,47.91,37.78591,-122.41669
+SEQ187,"['Home', 'Search', 'Product_Page', 'Cart']",2,30.85,49.92,37.78608,-122.41689
+SEQ187,"['Home', 'Search', 'Product_Page', 'Cart']",3,32.79,52.58,37.78652,-122.41709
+SEQ187,"['Home', 'Search', 'Product_Page', 'Cart']",4,34.14,54.57,37.78667,-122.41752
+SEQ188,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,26.07,52.94,37.78609,-122.41568
+SEQ188,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,27.79,55.12,37.78649,-122.41591
+SEQ188,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,30.06,57.71,37.78661,-122.4162
+SEQ188,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,31.34,59.52,37.78693,-122.41637
+SEQ189,"['Home', 'Search', 'Product_Page', 'Cart']",1,44.54,59.77,37.77378,-122.40737
+SEQ189,"['Home', 'Search', 'Product_Page', 'Cart']",2,46.13,62.15,37.77409,-122.40762
+SEQ189,"['Home', 'Search', 'Product_Page', 'Cart']",3,48.34,64.97,37.77435,-122.40778
+SEQ189,"['Home', 'Search', 'Product_Page', 'Cart']",4,49.79,67.01,37.77471,-122.40817
+SEQ190,"['Home', 'Search', 'Product_Page', 'Cart']",1,40.63,46.15,37.7787,-122.39264
+SEQ190,"['Home', 'Search', 'Product_Page', 'Cart']",2,43.26,48.03,37.77892,-122.39292
+SEQ190,"['Home', 'Search', 'Product_Page', 'Cart']",3,44.18,50.59,37.77915,-122.39345
+SEQ190,"['Home', 'Search', 'Product_Page', 'Cart']",4,46.71,52.77,37.77955,-122.39355
+SEQ191,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,18.25,47.74,37.78311,-122.39707
+SEQ191,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,20.93,49.58,37.7834,-122.39725
+SEQ191,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,22.01,52.86,37.78362,-122.39775
+SEQ191,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,23.55,54.97,37.78394,-122.39794
+SEQ192,"['Home', 'Search', 'Product_Page', 'Cart']",1,38.03,50.03,37.75319,-122.42611
+SEQ192,"['Home', 'Search', 'Product_Page', 'Cart']",2,39.65,52.37,37.75337,-122.42637
+SEQ192,"['Home', 'Search', 'Product_Page', 'Cart']",3,41.29,54.69,37.75364,-122.42687
+SEQ192,"['Home', 'Search', 'Product_Page', 'Cart']",4,43.3,56.6,37.75388,-122.42727
+SEQ193,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,36.68,40.69,37.76219,-122.42579
+SEQ193,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,37.97,43.25,37.76242,-122.42612
+SEQ193,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,40.32,46.02,37.76272,-122.42632
+SEQ193,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,42.31,48.65,37.76305,-122.42691
+SEQ194,"['Home', 'Search', 'Exit']",1,23.9,32.29,37.77003,-122.39771
+SEQ194,"['Home', 'Search', 'Exit']",2,25.87,34.46,37.77043,-122.39793
+SEQ194,"['Home', 'Search', 'Exit']",3,27.29,37.23,37.77062,-122.39819
+SEQ194,"['Home', 'Search', 'Exit']",4,28.91,39.74,37.77112,-122.39866
+SEQ195,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,26.83,55.38,37.78252,-122.39773
+SEQ195,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,28.77,57.61,37.78284,-122.398
+SEQ195,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,30.67,60.18,37.78315,-122.39834
+SEQ195,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,32.81,62.09,37.78347,-122.39846
+SEQ196,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,28.95,41.11,37.78928,-122.42451
+SEQ196,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,30.48,43.27,37.78954,-122.42471
+SEQ196,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,32.27,45.65,37.78987,-122.425
+SEQ196,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,33.99,48.61,37.79015,-122.42538
+SEQ197,"['Home', 'Search', 'Exit']",1,45.26,29.16,37.77659,-122.40327
+SEQ197,"['Home', 'Search', 'Exit']",2,47.3,31.14,37.7771,-122.40361
+SEQ197,"['Home', 'Search', 'Exit']",3,49.04,33.48,37.77729,-122.40372
+SEQ197,"['Home', 'Search', 'Exit']",4,51.44,36.17,37.77753,-122.40408
+SEQ198,"['Home', 'Search', 'Product_Page', 'Cart']",1,25.12,33.44,37.78851,-122.40317
+SEQ198,"['Home', 'Search', 'Product_Page', 'Cart']",2,26.57,35.76,37.78878,-122.40369
+SEQ198,"['Home', 'Search', 'Product_Page', 'Cart']",3,28.77,37.97,37.78894,-122.40386
+SEQ198,"['Home', 'Search', 'Product_Page', 'Cart']",4,30.33,40.3,37.78936,-122.40419
+SEQ199,"['Home', 'Search', 'Exit']",1,39.17,61.42,37.77295,-122.4021
+SEQ199,"['Home', 'Search', 'Exit']",2,40.84,64.48,37.77318,-122.40252
+SEQ199,"['Home', 'Search', 'Exit']",3,43.02,67.04,37.77344,-122.40279
+SEQ199,"['Home', 'Search', 'Exit']",4,44.4,68.38,37.77374,-122.40299
+SEQ200,"['Home', 'Search', 'Product_Page', 'Cart']",1,24.64,56.61,37.75793,-122.42009
+SEQ200,"['Home', 'Search', 'Product_Page', 'Cart']",2,26.32,58.9,37.7581,-122.42066
+SEQ200,"['Home', 'Search', 'Product_Page', 'Cart']",3,28.33,61.72,37.7584,-122.4205
+SEQ200,"['Home', 'Search', 'Product_Page', 'Cart']",4,30.04,63.94,37.75865,-122.42106
+SEQ201,"['Home', 'Search', 'Exit']",1,29.69,27.51,37.75923,-122.39498
+SEQ201,"['Home', 'Search', 'Exit']",2,30.97,29.71,37.75957,-122.39525
+SEQ201,"['Home', 'Search', 'Exit']",3,33.16,31.99,37.75963,-122.39552
+SEQ201,"['Home', 'Search', 'Exit']",4,34.84,34.28,37.76008,-122.39575
+SEQ202,"['Home', 'Search', 'Exit']",1,42.99,29.93,37.77032,-122.41878
+SEQ202,"['Home', 'Search', 'Exit']",2,44.87,32.29,37.77041,-122.41918
+SEQ202,"['Home', 'Search', 'Exit']",3,46.47,33.77,37.7709,-122.41955
+SEQ202,"['Home', 'Search', 'Exit']",4,48.37,36.18,37.77102,-122.41959
+SEQ203,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,44.48,25.46,37.77413,-122.41299
+SEQ203,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,46.46,27.96,37.77438,-122.41315
+SEQ203,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,48.41,30.3,37.77482,-122.41345
+SEQ203,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,49.94,32.65,37.77505,-122.41399
+SEQ204,"['Home', 'Search', 'Exit']",1,33.19,29.67,37.75402,-122.41032
+SEQ204,"['Home', 'Search', 'Exit']",2,35.78,32.11,37.75433,-122.41055
+SEQ204,"['Home', 'Search', 'Exit']",3,36.5,34.49,37.75475,-122.41083
+SEQ204,"['Home', 'Search', 'Exit']",4,39.2,36.52,37.75498,-122.41104
+SEQ205,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,43.81,57.71,37.78438,-122.39161
+SEQ205,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,46.38,59.58,37.78442,-122.39161
+SEQ205,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,47.75,62.06,37.78458,-122.3919
+SEQ205,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,49.29,64.37,37.78497,-122.39234
+SEQ206,"['Home', 'Search', 'Exit']",1,32.66,46.45,37.77141,-122.39173
+SEQ206,"['Home', 'Search', 'Exit']",2,34.38,48.7,37.77161,-122.39195
+SEQ206,"['Home', 'Search', 'Exit']",3,36.18,51.05,37.77181,-122.39241
+SEQ206,"['Home', 'Search', 'Exit']",4,38.61,53.38,37.7722,-122.39255
+SEQ207,"['Home', 'Search', 'Product_Page', 'Cart']",1,27.68,54.46,37.77647,-122.43029
+SEQ207,"['Home', 'Search', 'Product_Page', 'Cart']",2,29.65,58.08,37.7768,-122.43032
+SEQ207,"['Home', 'Search', 'Product_Page', 'Cart']",3,30.93,59.8,37.7771,-122.43071
+SEQ207,"['Home', 'Search', 'Product_Page', 'Cart']",4,33.13,62.3,37.77742,-122.43103
+SEQ208,"['Home', 'Search', 'Exit']",1,19.47,59.28,37.78853,-122.41165
+SEQ208,"['Home', 'Search', 'Exit']",2,21.88,61.51,37.78856,-122.41196
+SEQ208,"['Home', 'Search', 'Exit']",3,24.21,63.91,37.78903,-122.41229
+SEQ208,"['Home', 'Search', 'Exit']",4,25.31,66.32,37.78918,-122.41267
+SEQ209,"['Home', 'Search', 'Product_Page', 'Cart']",1,28.82,33.15,37.75582,-122.4043
+SEQ209,"['Home', 'Search', 'Product_Page', 'Cart']",2,30.66,35.11,37.75622,-122.40457
+SEQ209,"['Home', 'Search', 'Product_Page', 'Cart']",3,33.42,38.29,37.75637,-122.40497
+SEQ209,"['Home', 'Search', 'Product_Page', 'Cart']",4,34.07,40.15,37.75644,-122.40536
+SEQ210,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,31.45,42.75,37.7823,-122.41187
+SEQ210,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,33.16,45.26,37.78263,-122.41224
+SEQ210,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,34.47,47.31,37.78289,-122.41261
+SEQ210,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,37.65,49.74,37.78321,-122.41269
+SEQ211,"['Home', 'Search', 'Product_Page', 'Cart']",1,25.45,43.27,37.76779,-122.42726
+SEQ211,"['Home', 'Search', 'Product_Page', 'Cart']",2,26.99,45.54,37.76805,-122.42741
+SEQ211,"['Home', 'Search', 'Product_Page', 'Cart']",3,28.33,47.93,37.76841,-122.42766
+SEQ211,"['Home', 'Search', 'Product_Page', 'Cart']",4,31.25,50.42,37.76859,-122.42807
+SEQ212,"['Home', 'Search', 'Exit']",1,42.2,36.67,37.75598,-122.40108
+SEQ212,"['Home', 'Search', 'Exit']",2,44.53,39.18,37.75623,-122.40135
+SEQ212,"['Home', 'Search', 'Exit']",3,46.29,41.67,37.75656,-122.4017
+SEQ212,"['Home', 'Search', 'Exit']",4,48.23,43.61,37.7569,-122.40198
+SEQ213,"['Home', 'Search', 'Product_Page', 'Cart']",1,36.67,42.74,37.7794,-122.40638
+SEQ213,"['Home', 'Search', 'Product_Page', 'Cart']",2,38.71,45.46,37.77971,-122.40666
+SEQ213,"['Home', 'Search', 'Product_Page', 'Cart']",3,40.49,47.26,37.78012,-122.40694
+SEQ213,"['Home', 'Search', 'Product_Page', 'Cart']",4,42.27,50.06,37.78027,-122.4071
+SEQ214,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,28.76,58.59,37.76205,-122.4217
+SEQ214,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,30.33,61.09,37.76244,-122.42196
+SEQ214,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,31.77,62.92,37.76269,-122.42219
+SEQ214,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,33.9,65.9,37.7629,-122.4229
+SEQ215,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,14.5,61.36,37.76779,-122.40485
+SEQ215,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,16.69,63.86,37.76816,-122.40539
+SEQ215,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,18.38,66.1,37.76849,-122.40581
+SEQ215,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,19.73,68.35,37.76867,-122.40598
+SEQ216,"['Home', 'Search', 'Product_Page', 'Cart']",1,14.02,57.2,37.78131,-122.40298
+SEQ216,"['Home', 'Search', 'Product_Page', 'Cart']",2,16.07,58.21,37.78164,-122.40324
+SEQ216,"['Home', 'Search', 'Product_Page', 'Cart']",3,17.86,61.58,37.78204,-122.40353
+SEQ216,"['Home', 'Search', 'Product_Page', 'Cart']",4,19.74,63.17,37.78233,-122.40374
+SEQ217,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,43.64,47.51,37.77006,-122.41816
+SEQ217,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,45.59,49.91,37.77041,-122.41842
+SEQ217,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,47.31,52.19,37.77066,-122.41868
+SEQ217,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,49.21,54.02,37.77105,-122.419
+SEQ218,"['Home', 'Search', 'Exit']",1,31.94,47.05,37.76986,-122.40187
+SEQ218,"['Home', 'Search', 'Exit']",2,33.42,49.12,37.77029,-122.40223
+SEQ218,"['Home', 'Search', 'Exit']",3,35.3,51.17,37.77064,-122.40236
+SEQ218,"['Home', 'Search', 'Exit']",4,36.82,53.41,37.77075,-122.40265
+SEQ219,"['Home', 'Search', 'Product_Page', 'Cart']",1,35.02,30.22,37.75168,-122.39045
+SEQ219,"['Home', 'Search', 'Product_Page', 'Cart']",2,36.63,32.81,37.75187,-122.39091
+SEQ219,"['Home', 'Search', 'Product_Page', 'Cart']",3,38.23,35.7,37.75216,-122.39106
+SEQ219,"['Home', 'Search', 'Product_Page', 'Cart']",4,39.87,37.63,37.75245,-122.39139
+SEQ220,"['Home', 'Search', 'Product_Page', 'Cart']",1,31.11,46.54,37.7626,-122.4133
+SEQ220,"['Home', 'Search', 'Product_Page', 'Cart']",2,32.1,48.85,37.76305,-122.41381
+SEQ220,"['Home', 'Search', 'Product_Page', 'Cart']",3,34.26,51.15,37.76336,-122.41379
+SEQ220,"['Home', 'Search', 'Product_Page', 'Cart']",4,35.37,53.36,37.76345,-122.41415
+SEQ221,"['Home', 'Search', 'Exit']",1,14.87,35.25,37.75859,-122.40364
+SEQ221,"['Home', 'Search', 'Exit']",2,16.34,37.57,37.75892,-122.40386
+SEQ221,"['Home', 'Search', 'Exit']",3,17.51,39.31,37.75916,-122.40409
+SEQ221,"['Home', 'Search', 'Exit']",4,19.46,42.36,37.75968,-122.40447
+SEQ222,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,36.79,61.7,37.77567,-122.41252
+SEQ222,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,38.8,64.12,37.77596,-122.41278
+SEQ222,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,40.41,65.93,37.77628,-122.41305
+SEQ222,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,41.99,67.92,37.77654,-122.41335
+SEQ223,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,31.8,37.57,37.77129,-122.42496
+SEQ223,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,33.68,40.23,37.77145,-122.42537
+SEQ223,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,35.14,42.29,37.77182,-122.42548
+SEQ223,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,37.37,44.49,37.77234,-122.42604
+SEQ224,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,19.81,34.84,37.7829,-122.39439
+SEQ224,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,21.61,37.31,37.78323,-122.39466
+SEQ224,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,23.4,39.14,37.78348,-122.39492
+SEQ224,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,24.91,41.7,37.78382,-122.39558
+SEQ225,"['Home', 'Search', 'Product_Page', 'Cart']",1,42.53,44.07,37.76124,-122.42689
+SEQ225,"['Home', 'Search', 'Product_Page', 'Cart']",2,44.1,46.34,37.76172,-122.42722
+SEQ225,"['Home', 'Search', 'Product_Page', 'Cart']",3,46.03,48.95,37.76178,-122.42768
+SEQ225,"['Home', 'Search', 'Product_Page', 'Cart']",4,47.25,51.16,37.76192,-122.42772
+SEQ226,"['Home', 'Search', 'Exit']",1,21.92,28.86,37.76135,-122.42359
+SEQ226,"['Home', 'Search', 'Exit']",2,23.95,32.46,37.76167,-122.42429
+SEQ226,"['Home', 'Search', 'Exit']",3,25.54,34.6,37.76214,-122.42459
+SEQ226,"['Home', 'Search', 'Exit']",4,27.74,36.5,37.76244,-122.42468
+SEQ227,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,24.13,30.34,37.783,-122.4205
+SEQ227,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,26.33,33.05,37.78331,-122.42088
+SEQ227,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,28.31,35.07,37.78351,-122.421
+SEQ227,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,30.4,37.3,37.78383,-122.42125
+SEQ228,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,22.33,41.16,37.78924,-122.42183
+SEQ228,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,23.75,43.3,37.7893,-122.42191
+SEQ228,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,25.36,45.23,37.78965,-122.42241
+SEQ228,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,27.19,47.63,37.78991,-122.42258
+SEQ229,"['Home', 'Search', 'Exit']",1,36.13,53.56,37.77325,-122.42174
+SEQ229,"['Home', 'Search', 'Exit']",2,37.92,56.11,37.77371,-122.42189
+SEQ229,"['Home', 'Search', 'Exit']",3,39.65,58.22,37.77393,-122.42223
+SEQ229,"['Home', 'Search', 'Exit']",4,41.94,60.1,37.77412,-122.42252
+SEQ230,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,23.88,24.73,37.75771,-122.42025
+SEQ230,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,25.73,26.55,37.75786,-122.42073
+SEQ230,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,27.51,28.7,37.75824,-122.42101
+SEQ230,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,28.79,31.92,37.75858,-122.42123
+SEQ231,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,40.88,51.56,37.76047,-122.41453
+SEQ231,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,42.43,53.82,37.76094,-122.41483
+SEQ231,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,44.66,56.2,37.76141,-122.41521
+SEQ231,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,45.42,58.85,37.76158,-122.41562
+SEQ232,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,27.65,23.56,37.75156,-122.41128
+SEQ232,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,30.15,25.22,37.75188,-122.4116
+SEQ232,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,30.7,27.49,37.75227,-122.41207
+SEQ232,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,33.44,30.23,37.75263,-122.41222
+SEQ233,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.52,41.88,37.76464,-122.41747
+SEQ233,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.4,44.12,37.76494,-122.41785
+SEQ233,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,43.96,46.57,37.76513,-122.41811
+SEQ233,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,45.78,49.02,37.76546,-122.41829
+SEQ234,"['Home', 'Search', 'Exit']",1,44.49,60.46,37.76084,-122.40098
+SEQ234,"['Home', 'Search', 'Exit']",2,46.51,62.68,37.76094,-122.4015
+SEQ234,"['Home', 'Search', 'Exit']",3,48.36,65.08,37.76135,-122.4017
+SEQ234,"['Home', 'Search', 'Exit']",4,49.87,66.91,37.76174,-122.40196
+SEQ235,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,24.29,60.67,37.78358,-122.42485
+SEQ235,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,26.3,62.75,37.78409,-122.42532
+SEQ235,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,27.67,64.24,37.78427,-122.42551
+SEQ235,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,30.17,67.04,37.78421,-122.42566
+SEQ236,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,38.37,56.82,37.75551,-122.415
+SEQ236,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,40.24,59.41,37.75595,-122.41538
+SEQ236,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,41.97,61.13,37.75604,-122.41568
+SEQ236,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,43.9,63.98,37.75636,-122.41604
+SEQ237,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,30.64,37.81,37.77287,-122.42668
+SEQ237,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,32.42,40.01,37.7731,-122.427
+SEQ237,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,33.89,42,37.77353,-122.42724
+SEQ237,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,35.14,44.89,37.77407,-122.4275
+SEQ238,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,38.12,31.52,37.77167,-122.40051
+SEQ238,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,40.21,33.57,37.77223,-122.40084
+SEQ238,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,42.32,35.61,37.77252,-122.40105
+SEQ238,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,43.49,38.58,37.77275,-122.40144
+SEQ239,"['Home', 'Search', 'Exit']",1,40.77,56.43,37.76279,-122.41205
+SEQ239,"['Home', 'Search', 'Exit']",2,42.28,58.57,37.76282,-122.41206
+SEQ239,"['Home', 'Search', 'Exit']",3,44.26,60.9,37.76339,-122.41243
+SEQ239,"['Home', 'Search', 'Exit']",4,46.05,63.23,37.7634,-122.4129
+SEQ240,"['Home', 'Search', 'Product_Page', 'Cart']",1,42.17,36.96,37.75913,-122.39695
+SEQ240,"['Home', 'Search', 'Product_Page', 'Cart']",2,44.84,39.5,37.75952,-122.39745
+SEQ240,"['Home', 'Search', 'Product_Page', 'Cart']",3,46.42,41.74,37.75995,-122.39788
+SEQ240,"['Home', 'Search', 'Product_Page', 'Cart']",4,48.12,44.44,37.76021,-122.39803
+SEQ241,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,41.25,53.63,37.75295,-122.40302
+SEQ241,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,43.33,55.84,37.75369,-122.40325
+SEQ241,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,45.24,58.36,37.75368,-122.4036
+SEQ241,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.17,60.33,37.75383,-122.40382
+SEQ242,"['Home', 'Search', 'Product_Page', 'Cart']",1,23.21,56.12,37.75981,-122.42613
+SEQ242,"['Home', 'Search', 'Product_Page', 'Cart']",2,24.9,58.63,37.75999,-122.42673
+SEQ242,"['Home', 'Search', 'Product_Page', 'Cart']",3,26.59,60.29,37.76024,-122.42686
+SEQ242,"['Home', 'Search', 'Product_Page', 'Cart']",4,28.62,63.18,37.76064,-122.42719
+SEQ243,"['Home', 'Search', 'Product_Page', 'Cart']",1,33.01,37.65,37.78281,-122.40251
+SEQ243,"['Home', 'Search', 'Product_Page', 'Cart']",2,35.52,40.43,37.78308,-122.40265
+SEQ243,"['Home', 'Search', 'Product_Page', 'Cart']",3,37.27,42.72,37.78333,-122.40301
+SEQ243,"['Home', 'Search', 'Product_Page', 'Cart']",4,39.23,44.87,37.78361,-122.40328
+SEQ244,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.88,38.76,37.76616,-122.39547
+SEQ244,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.89,40.69,37.76661,-122.39571
+SEQ244,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,43.66,43.03,37.76699,-122.39607
+SEQ244,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,45.48,46.05,37.76726,-122.39634
+SEQ245,"['Home', 'Search', 'Product_Page', 'Cart']",1,38.16,43.32,37.76508,-122.39364
+SEQ245,"['Home', 'Search', 'Product_Page', 'Cart']",2,38.82,46.22,37.76516,-122.39373
+SEQ245,"['Home', 'Search', 'Product_Page', 'Cart']",3,41.32,47.98,37.76574,-122.3943
+SEQ245,"['Home', 'Search', 'Product_Page', 'Cart']",4,43.22,50.63,37.76602,-122.39432
+SEQ246,"['Home', 'Search', 'Product_Page', 'Cart']",1,31.09,38.65,37.76303,-122.42887
+SEQ246,"['Home', 'Search', 'Product_Page', 'Cart']",2,32.43,40.74,37.76313,-122.42915
+SEQ246,"['Home', 'Search', 'Product_Page', 'Cart']",3,34.11,43.63,37.76356,-122.42938
+SEQ246,"['Home', 'Search', 'Product_Page', 'Cart']",4,36.11,45.99,37.7638,-122.42983
+SEQ247,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,39.71,49.48,37.76162,-122.41506
+SEQ247,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,41.23,51.53,37.76187,-122.41546
+SEQ247,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,43.44,54.17,37.76212,-122.41582
+SEQ247,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,44.85,56.24,37.76231,-122.41604
+SEQ248,"['Home', 'Search', 'Exit']",1,32.9,59.58,37.76522,-122.41415
+SEQ248,"['Home', 'Search', 'Exit']",2,34.3,61.53,37.76569,-122.4141
+SEQ248,"['Home', 'Search', 'Exit']",3,36.32,63.9,37.76576,-122.41493
+SEQ248,"['Home', 'Search', 'Exit']",4,37.72,65.21,37.76629,-122.41483
+SEQ249,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,33.22,52.2,37.76215,-122.40425
+SEQ249,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,34.88,53.8,37.76225,-122.40428
+SEQ249,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,37.37,56.73,37.76264,-122.40477
+SEQ249,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,39.17,59.09,37.76306,-122.40495
+SEQ250,"['Home', 'Search', 'Product_Page', 'Cart']",1,16.92,47.77,37.76592,-122.42012
+SEQ250,"['Home', 'Search', 'Product_Page', 'Cart']",2,19.14,49.59,37.76621,-122.42023
+SEQ250,"['Home', 'Search', 'Product_Page', 'Cart']",3,20.45,52.12,37.7667,-122.42043
+SEQ250,"['Home', 'Search', 'Product_Page', 'Cart']",4,22.34,54.71,37.76686,-122.42093
+SEQ251,"['Home', 'Search', 'Exit']",1,26.4,23.79,37.75506,-122.4249
+SEQ251,"['Home', 'Search', 'Exit']",2,27.35,25.59,37.7556,-122.42511
+SEQ251,"['Home', 'Search', 'Exit']",3,29.24,28.16,37.75575,-122.4253
+SEQ251,"['Home', 'Search', 'Exit']",4,30.58,30.9,37.75625,-122.42576
+SEQ252,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,14.18,45.8,37.76394,-122.40429
+SEQ252,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,16.13,49.07,37.76417,-122.40461
+SEQ252,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,18.38,50.47,37.76448,-122.40496
+SEQ252,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,19.84,53.11,37.76501,-122.40516
+SEQ253,"['Home', 'Search', 'Product_Page', 'Cart']",1,19.42,33.86,37.76276,-122.42789
+SEQ253,"['Home', 'Search', 'Product_Page', 'Cart']",2,21.05,35.79,37.76297,-122.42813
+SEQ253,"['Home', 'Search', 'Product_Page', 'Cart']",3,23.14,38.39,37.76333,-122.42847
+SEQ253,"['Home', 'Search', 'Product_Page', 'Cart']",4,24.54,40.13,37.76346,-122.42885
+SEQ254,"['Home', 'Search', 'Exit']",1,18.47,40.54,37.77479,-122.41737
+SEQ254,"['Home', 'Search', 'Exit']",2,19.25,43.36,37.77498,-122.41761
+SEQ254,"['Home', 'Search', 'Exit']",3,21.65,44.97,37.77543,-122.41814
+SEQ254,"['Home', 'Search', 'Exit']",4,22.47,47.44,37.77564,-122.41829
+SEQ255,"['Home', 'Search', 'Exit']",1,20.87,24.71,37.78216,-122.42218
+SEQ255,"['Home', 'Search', 'Exit']",2,22.68,27.09,37.78236,-122.42236
+SEQ255,"['Home', 'Search', 'Exit']",3,24.06,29.39,37.78294,-122.42284
+SEQ255,"['Home', 'Search', 'Exit']",4,26.25,31.6,37.78303,-122.42321
+SEQ256,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,14.28,43.66,37.78223,-122.40827
+SEQ256,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,16.9,46.36,37.7827,-122.40864
+SEQ256,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,18.18,48.71,37.78285,-122.40885
+SEQ256,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,19.79,51.07,37.78317,-122.40913
+SEQ257,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,46.32,53.96,37.7578,-122.42014
+SEQ257,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,48.16,55.76,37.75799,-122.42048
+SEQ257,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,49.79,58.33,37.75864,-122.4209
+SEQ257,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,51.53,60.1,37.75859,-122.4211
+SEQ258,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,24.28,49.54,37.77426,-122.39543
+SEQ258,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,25.79,52.35,37.77423,-122.39565
+SEQ258,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,28.05,54.43,37.77471,-122.39625
+SEQ258,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,30.02,56.39,37.77498,-122.39629
+SEQ259,"['Home', 'Search', 'Product_Page', 'Cart']",1,37.82,24.67,37.75669,-122.40945
+SEQ259,"['Home', 'Search', 'Product_Page', 'Cart']",2,39.83,26.69,37.75705,-122.40974
+SEQ259,"['Home', 'Search', 'Product_Page', 'Cart']",3,41.47,30.03,37.7573,-122.40998
+SEQ259,"['Home', 'Search', 'Product_Page', 'Cart']",4,42.73,31.53,37.75764,-122.41049
+SEQ260,"['Home', 'Search', 'Exit']",1,41.24,38.26,37.77667,-122.4027
+SEQ260,"['Home', 'Search', 'Exit']",2,43.06,40.32,37.77674,-122.40306
+SEQ260,"['Home', 'Search', 'Exit']",3,44.45,43.37,37.7771,-122.40318
+SEQ260,"['Home', 'Search', 'Exit']",4,46.52,44.91,37.77725,-122.40361
+SEQ261,"['Home', 'Search', 'Exit']",1,19.19,23.48,37.78463,-122.41563
+SEQ261,"['Home', 'Search', 'Exit']",2,20.56,26.06,37.78481,-122.41588
+SEQ261,"['Home', 'Search', 'Exit']",3,23,28.09,37.78528,-122.41619
+SEQ261,"['Home', 'Search', 'Exit']",4,24.65,29.89,37.78551,-122.41649
+SEQ262,"['Home', 'Search', 'Product_Page', 'Cart']",1,27.01,43.68,37.77997,-122.4128
+SEQ262,"['Home', 'Search', 'Product_Page', 'Cart']",2,28.74,46.02,37.78041,-122.413
+SEQ262,"['Home', 'Search', 'Product_Page', 'Cart']",3,30.77,48.06,37.78073,-122.41322
+SEQ262,"['Home', 'Search', 'Product_Page', 'Cart']",4,32.9,50.22,37.78116,-122.41367
+SEQ263,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,30.9,38.38,37.76957,-122.41768
+SEQ263,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,33.12,41.51,37.76995,-122.41808
+SEQ263,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,34.92,43.58,37.77021,-122.41841
+SEQ263,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,36.89,46.27,37.77062,-122.41863
+SEQ264,"['Home', 'Search', 'Exit']",1,23.44,43.67,37.7553,-122.42297
+SEQ264,"['Home', 'Search', 'Exit']",2,25.04,46.4,37.75584,-122.42323
+SEQ264,"['Home', 'Search', 'Exit']",3,27.62,48.42,37.756,-122.42333
+SEQ264,"['Home', 'Search', 'Exit']",4,28.93,50.61,37.75634,-122.42386
+SEQ265,"['Home', 'Search', 'Exit']",1,27.86,38.66,37.75038,-122.39471
+SEQ265,"['Home', 'Search', 'Exit']",2,29.27,41.55,37.75062,-122.39476
+SEQ265,"['Home', 'Search', 'Exit']",3,31.1,43.48,37.75105,-122.39522
+SEQ265,"['Home', 'Search', 'Exit']",4,33.14,45.95,37.75111,-122.39545
+SEQ266,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,16.08,39.09,37.75563,-122.39583
+SEQ266,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,17.6,40.87,37.75579,-122.39617
+SEQ266,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,19.75,43.52,37.75603,-122.39638
+SEQ266,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,22.51,45.28,37.75636,-122.3968
+SEQ267,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,24.51,53.33,37.78592,-122.42155
+SEQ267,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,26.02,55.59,37.78637,-122.42194
+SEQ267,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,28.23,57.68,37.78646,-122.42202
+SEQ267,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,29.79,59.79,37.78713,-122.42251
+SEQ268,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,32.64,57.45,37.75372,-122.3976
+SEQ268,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,34.16,60.19,37.75392,-122.3978
+SEQ268,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,35.74,62.45,37.75422,-122.39817
+SEQ268,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,37.94,64.3,37.75446,-122.39842
+SEQ269,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,42.11,51.47,37.77521,-122.42407
+SEQ269,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,43.96,53.81,37.77549,-122.42445
+SEQ269,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46.02,55.59,37.77565,-122.42475
+SEQ269,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.5,58.51,37.7762,-122.42498
+SEQ270,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,44.7,43.03,37.76583,-122.41487
+SEQ270,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,46.23,45.64,37.76634,-122.41515
+SEQ270,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,47.04,47.97,37.76647,-122.41547
+SEQ270,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,49.49,49.92,37.76692,-122.41556
+SEQ271,"['Home', 'Search', 'Product_Page', 'Cart']",1,36.5,31.12,37.75644,-122.39904
+SEQ271,"['Home', 'Search', 'Product_Page', 'Cart']",2,37.58,33.04,37.75663,-122.39938
+SEQ271,"['Home', 'Search', 'Product_Page', 'Cart']",3,39.6,34.96,37.75693,-122.39961
+SEQ271,"['Home', 'Search', 'Product_Page', 'Cart']",4,41.98,37.65,37.75738,-122.39988
+SEQ272,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,17.32,57.16,37.75147,-122.40418
+SEQ272,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,19.32,59.18,37.7519,-122.40453
+SEQ272,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,21.79,61.48,37.75214,-122.40479
+SEQ272,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,22.76,64.26,37.75242,-122.40502
+SEQ273,"['Home', 'Search', 'Exit']",1,18.44,38.3,37.77936,-122.41409
+SEQ273,"['Home', 'Search', 'Exit']",2,20.15,40.29,37.77974,-122.41432
+SEQ273,"['Home', 'Search', 'Exit']",3,22.06,42.46,37.78008,-122.41439
+SEQ273,"['Home', 'Search', 'Exit']",4,23.93,45.53,37.78038,-122.41499
+SEQ274,"['Home', 'Search', 'Product_Page', 'Cart']",1,34.99,27.81,37.75707,-122.41769
+SEQ274,"['Home', 'Search', 'Product_Page', 'Cart']",2,36.73,29.97,37.75735,-122.41807
+SEQ274,"['Home', 'Search', 'Product_Page', 'Cart']",3,37.8,32.21,37.75786,-122.41838
+SEQ274,"['Home', 'Search', 'Product_Page', 'Cart']",4,40.33,34.81,37.75811,-122.41863
+SEQ275,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,23.8,28.77,37.75956,-122.40459
+SEQ275,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,26.3,31.71,37.75988,-122.40493
+SEQ275,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,28.06,33.74,37.76022,-122.40523
+SEQ275,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,29.49,36.13,37.76059,-122.40545
+SEQ276,"['Home', 'Search', 'Product_Page', 'Cart']",1,22.21,60.26,37.75822,-122.42742
+SEQ276,"['Home', 'Search', 'Product_Page', 'Cart']",2,24.15,61.89,37.7585,-122.42776
+SEQ276,"['Home', 'Search', 'Product_Page', 'Cart']",3,25.53,64.87,37.75868,-122.42808
+SEQ276,"['Home', 'Search', 'Product_Page', 'Cart']",4,27.48,66.88,37.75922,-122.42859
+SEQ277,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.45,51.9,37.75455,-122.40176
+SEQ277,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.29,54.54,37.75478,-122.40217
+SEQ277,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,42.14,55.93,37.75532,-122.40243
+SEQ277,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,44.33,59.16,37.75529,-122.40292
+SEQ278,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,31.5,25.78,37.78752,-122.40524
+SEQ278,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,33.32,27.61,37.78778,-122.40541
+SEQ278,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,34.65,30.25,37.788,-122.40579
+SEQ278,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,37.07,32.25,37.7883,-122.4059
+SEQ279,"['Home', 'Search', 'Product_Page', 'Cart']",1,28.59,61.34,37.7804,-122.39033
+SEQ279,"['Home', 'Search', 'Product_Page', 'Cart']",2,31.05,64.64,37.78076,-122.39099
+SEQ279,"['Home', 'Search', 'Product_Page', 'Cart']",3,32.65,66.24,37.78104,-122.39107
+SEQ279,"['Home', 'Search', 'Product_Page', 'Cart']",4,34.66,69.13,37.78135,-122.39169
+SEQ280,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,42.18,47.68,37.77646,-122.41684
+SEQ280,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,43.93,49.43,37.77693,-122.41724
+SEQ280,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46,52.24,37.77715,-122.41756
+SEQ280,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,47.83,54.24,37.77745,-122.41814
+SEQ281,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,29.21,37.1,37.77811,-122.40299
+SEQ281,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,30.94,39.68,37.77824,-122.40299
+SEQ281,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,32.85,41.9,37.77879,-122.40352
+SEQ281,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,35.13,44.04,37.77901,-122.40379
+SEQ282,"['Home', 'Search', 'Product_Page', 'Cart']",1,45.5,30.08,37.7604,-122.39567
+SEQ282,"['Home', 'Search', 'Product_Page', 'Cart']",2,47.92,32.89,37.76091,-122.39604
+SEQ282,"['Home', 'Search', 'Product_Page', 'Cart']",3,49.61,35.86,37.76116,-122.39629
+SEQ282,"['Home', 'Search', 'Product_Page', 'Cart']",4,51.33,37.91,37.76125,-122.3966
+SEQ283,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,21.65,60.52,37.76418,-122.40749
+SEQ283,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,24.02,62.77,37.76434,-122.40776
+SEQ283,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,25.74,64.64,37.7648,-122.4081
+SEQ283,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,27.88,67.47,37.76503,-122.40838
+SEQ284,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,37.4,32.61,37.78397,-122.39943
+SEQ284,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,38.69,34,37.78425,-122.39983
+SEQ284,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,41.49,36.42,37.7845,-122.39993
+SEQ284,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,42.45,39,37.78468,-122.40039
+SEQ285,"['Home', 'Search', 'Exit']",1,17.81,56.15,37.75099,-122.42783
+SEQ285,"['Home', 'Search', 'Exit']",2,19.32,58.75,37.7514,-122.42801
+SEQ285,"['Home', 'Search', 'Exit']",3,20.87,60.94,37.7518,-122.42827
+SEQ285,"['Home', 'Search', 'Exit']",4,22.61,62.99,37.75204,-122.42872
+SEQ286,"['Home', 'Search', 'Exit']",1,21.66,61.83,37.78383,-122.3937
+SEQ286,"['Home', 'Search', 'Exit']",2,22.84,63.67,37.78396,-122.39426
+SEQ286,"['Home', 'Search', 'Exit']",3,24.85,66.78,37.78414,-122.39451
+SEQ286,"['Home', 'Search', 'Exit']",4,26.97,68.44,37.78468,-122.39471
+SEQ287,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.45,30.83,37.76046,-122.41313
+SEQ287,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.28,33.91,37.76102,-122.41339
+SEQ287,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,43.11,36.15,37.76126,-122.41375
+SEQ287,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,45.38,38.74,37.76151,-122.41406
+SEQ288,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,43.15,31.86,37.75313,-122.40877
+SEQ288,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,44.46,34.16,37.75361,-122.40898
+SEQ288,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,46.31,36.04,37.75352,-122.40922
+SEQ288,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,48.7,37.76,37.75392,-122.40965
+SEQ289,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,33.01,61.45,37.78605,-122.42118
+SEQ289,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,35.12,63.52,37.78638,-122.42158
+SEQ289,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,36.72,66.03,37.78671,-122.42198
+SEQ289,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,38.96,68.72,37.78707,-122.42235
+SEQ290,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",1,22.29,34.56,37.76601,-122.41529
+SEQ290,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",2,24.52,37.16,37.76641,-122.41574
+SEQ290,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",3,25.61,39.94,37.76693,-122.41578
+SEQ290,"['Home', 'Product_Page', 'Wishlist', 'Cart', 'Checkout']",4,27.57,41.35,37.76706,-122.41633
+SEQ291,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,39.8,33.08,37.77709,-122.40949
+SEQ291,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,41.9,34.19,37.77765,-122.40996
+SEQ291,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,43.87,37.69,37.77781,-122.41001
+SEQ291,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,45.47,40.12,37.77793,-122.41038
+SEQ292,"['Home', 'Search', 'Product_Page', 'Cart']",1,45.07,45.46,37.76789,-122.414
+SEQ292,"['Home', 'Search', 'Product_Page', 'Cart']",2,46.99,47.93,37.76844,-122.4144
+SEQ292,"['Home', 'Search', 'Product_Page', 'Cart']",3,49.08,49.91,37.7684,-122.41447
+SEQ292,"['Home', 'Search', 'Product_Page', 'Cart']",4,50.57,52.62,37.76878,-122.41493
+SEQ293,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,23.16,60.42,37.7854,-122.39261
+SEQ293,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,25.31,62.37,37.78579,-122.39272
+SEQ293,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,26.77,65.06,37.78591,-122.3931
+SEQ293,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,28.76,67.14,37.78627,-122.3934
+SEQ294,"['Home', 'Search', 'Product_Page', 'Cart']",1,22.02,51.24,37.78743,-122.42684
+SEQ294,"['Home', 'Search', 'Product_Page', 'Cart']",2,24.45,53.34,37.78773,-122.42704
+SEQ294,"['Home', 'Search', 'Product_Page', 'Cart']",3,25.2,55.57,37.78797,-122.42738
+SEQ294,"['Home', 'Search', 'Product_Page', 'Cart']",4,27.41,57.84,37.78848,-122.42784
+SEQ295,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,29.1,27.07,37.7847,-122.39501
+SEQ295,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,30.72,28.9,37.78489,-122.39499
+SEQ295,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,32.89,31.46,37.78528,-122.39547
+SEQ295,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,34.61,33.8,37.78532,-122.39603
+SEQ296,"['Home', 'Product_Page', 'Wishlist', 'Exit']",1,45.83,46.68,37.75281,-122.39182
+SEQ296,"['Home', 'Product_Page', 'Wishlist', 'Exit']",2,47.76,48.58,37.75312,-122.39231
+SEQ296,"['Home', 'Product_Page', 'Wishlist', 'Exit']",3,49.73,51.45,37.7534,-122.39239
+SEQ296,"['Home', 'Product_Page', 'Wishlist', 'Exit']",4,51.59,53.49,37.75365,-122.39256
+SEQ297,"['Home', 'Product_Page', 'Cart', 'Checkout']",1,19.96,59.72,37.78184,-122.42374
+SEQ297,"['Home', 'Product_Page', 'Cart', 'Checkout']",2,21.27,62.19,37.78203,-122.42403
+SEQ297,"['Home', 'Product_Page', 'Cart', 'Checkout']",3,23.56,64.01,37.78253,-122.42403
+SEQ297,"['Home', 'Product_Page', 'Cart', 'Checkout']",4,25.19,66.14,37.78276,-122.4246
+SEQ298,"['Home', 'Search', 'Product_Page', 'Cart']",1,16.34,47.22,37.78498,-122.42537
+SEQ298,"['Home', 'Search', 'Product_Page', 'Cart']",2,18.83,49.42,37.78539,-122.42565
+SEQ298,"['Home', 'Search', 'Product_Page', 'Cart']",3,20.04,51.33,37.78537,-122.42599
+SEQ298,"['Home', 'Search', 'Product_Page', 'Cart']",4,22.48,53.48,37.78593,-122.42617
+SEQ299,"['Home', 'Search', 'Product_Page', 'Cart']",1,27.99,37.27,37.76461,-122.40048
+SEQ299,"['Home', 'Search', 'Product_Page', 'Cart']",2,30.5,39.78,37.76466,-122.40107
+SEQ299,"['Home', 'Search', 'Product_Page', 'Cart']",3,31.65,42.37,37.76487,-122.40122
+SEQ299,"['Home', 'Search', 'Product_Page', 'Cart']",4,33.68,44.54,37.76539,-122.40158
+SEQ300,"['Home', 'Search', 'Exit']",1,25.81,50.77,37.78603,-122.40202
+SEQ300,"['Home', 'Search', 'Exit']",2,27.29,53.44,37.78609,-122.40213
+SEQ300,"['Home', 'Search', 'Exit']",3,29.33,55.1,37.78658,-122.40268
+SEQ300,"['Home', 'Search', 'Exit']",4,31.07,57.43,37.78685,-122.40296

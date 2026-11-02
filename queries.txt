@@ -1,0 +1,35 @@
+venv\Scripts\activate.bat
+
+python assistant.py
+
+Load sequential_data.csv
+
+Find sequential patterns using PrefixSpan with user_event_path, grouped by sequence_id, minimum support 2.
+Run GSP sequential pattern mining on user_event_path, grouped by sequence_id, with minimum support 2.
+Analyze the event sequences using an HMM with user_event_path grouped by sequence_id and ordered by time_step.
+Use DTW to compare sensor_reading_1 sequences grouped by sequence_id and ordered by time_step.
+
+Load spatial_data.csv
+
+Run DBSCAN clustering on spatial_data.csv using latitude and longitude, eps 1 km, and minimum samples 5.
+Detect spatial outliers using latitude and longitude and the air_pollution_index attribute, with 5 nearest neighbors
+Perform spatial co-location analysis using latitude and longitude, grouping by the appropriate categorical column, with a distance threshold of 1 km.
+Perform geographically weighted regression using latitude and longitude to predict house_value.
+Generate a spatial analysis report summarizing the clusters, outliers, and geographic patterns.
+
+Load sales_data.csv
+
+Give me a summary of the loaded dataset.
+
+Create a histogram of Sales_Amount using 20 bins.
+Create a scatter plot of Sales_Amount against Sales_Rep.
+Create a box plot of Sales_Amount.
+
+Generate a PDF report analyzing sales performance by Region and Sales_Amount. Include key findings and a concise conclusion.
+calculate total Sales_Amount by Region.
+Check missing values in every column.
+Calculate the correlation matrix for all numeric columns.
+ Execute SQL: SELECT Region, AVG(Sales_Amount) AS average_sales FROM data GROUP BY Region ORDER BY average_sales DESC LIMIT 5;
+Execute SQL: SELECT Region, SUM(Sales_Amount) AS total_sales FROM data GROUP BY Region ORDER BY total_sales DESC LIMIT 5;
+
+
